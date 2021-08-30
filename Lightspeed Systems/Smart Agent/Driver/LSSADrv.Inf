@@ -1,0 +1,109 @@
+;
+;  LSSADrv.inf
+;
+;  Release Version
+;
+;  Copyright (c) 2018, Lightspeed Systems
+; 
+
+[Version]
+Signature = "$Windows NT$"
+Class = "ActivityMonitor"
+ClassGuid = {b86dff51-a31e-4bac-b3cf-e8cfe75c9fc2}
+Provider = %Lightspeed%
+DriverVer = 01/15/2020,1.5.0.0
+CatalogFile = LSSADrv.cat
+DriverPackageType = FileSystemFilter
+
+
+;
+; String Section
+;
+
+[Strings]
+Lightspeed = "Lightspeed Systems"
+ServiceDescription = "Lightspeed Smart Agent"
+ServiceName = LSSADrv
+DiskId = "Lightspeed Smart Agent Installation Disk"
+
+;Instances specific information.
+DefaultInstance = LSSADrv
+Instance1.Name = LSSADrv
+Instance1.Altitude = 328300.1
+
+; 0x0 = Allow all attachments
+; 0x1 = Suppress automatic attachments
+Instance1.Flags = 0x0
+
+; Registry contants:
+REG_SZ = 0x00000
+REG_MULTI_SZ = 0x10000
+REG_EXPAND_SZ = 0x20000
+REG_BINARY = 0x00001
+REG_DWORD = 0x10001
+
+[DestinationDirs]
+; dirid 12 = %windir%\system32\drivers
+DefaultDestDir = 12
+WinSmartAgent.DriverFiles = 12
+
+;
+; Default install sections
+;
+
+[DefaultInstall]
+OptionDesc = %ServiceDescription%
+CopyFiles = SmartAgent.DriverFiles
+
+[DefaultInstall.Services]
+AddService = %ServiceName%,,SmartAgent.Service
+
+;
+; Default uninstall sections
+;
+
+[DefaultUninstall]
+DelFiles = SmartAgent.DriverFiles
+
+
+[DefaultUninstall.Services]
+DelService = %ServiceName%,0x200 ; Ensure service is stopped before deleting
+
+;
+; Services Section
+;
+
+[SmartAgent.Service]
+DisplayName = %ServiceName%
+Description = %ServiceDescription%
+ServiceBinary = %12%\LSSADrv.sys
+Dependencies = FltMgr
+ServiceType = 2  ; SERVICE_FILE_SYSTEM_DRIVER
+StartType = 1    ; SERVICE_SYSTEM_START
+ErrorControl = 1 ; SERVICE_ERROR_NORMAL
+LoadOrderGroup = NetworkProvider
+AddReg = SmartAgent.ServiceRegistry
+
+;
+; Registry Modifications
+;
+
+[SmartAgent.ServiceRegistry]
+HKR,Instances,DefaultInstance,0x00000000,%DefaultInstance%
+HKR,Instances\%Instance1.Name%,Altitude,0x00000000,%Instance1.Altitude%
+HKR,Instances\%Instance1.Name%,Flags,0x00010001,%Instance1.Flags%
+
+;
+; Copy Files
+;
+
+[SmartAgent.DriverFiles]
+LSSADrv.sys
+
+[SourceDisksNames]
+1=%DiskId%
+
+[SourceDisksFiles]
+LSSADrv.sys = 1
+
+

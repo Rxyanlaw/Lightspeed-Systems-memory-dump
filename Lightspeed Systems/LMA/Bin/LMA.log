@@ -1,0 +1,152 @@
+2021/08/30 10:19:19 AM LMA: (5552.5556) Debug output mode (from defaults) = Log, Overwrite existing
+2021/08/30 10:19:20 AM LMA: (5552.5556) Wireless adapter MAC address = A4:42:3B:DA:59:21
+2021/08/30 10:19:20 AM LMA: (5552.5556) LMA.exe v3.1.6 build 2 (3.01.06), Release x64,
+    Windows v10.0 build 18363
+    Platform = Win10_x64
+2021/08/30 10:19:20 AM LMA: (5552.5556) Deployment:
+    Production,
+    Device Registration Portal (DRP) server = api.lsfilter.com,
+    Mobile Manager (MM) server = devices.lsmdm.com,
+    Control server = control.lsmdm.com,
+    Classroom Orchestrator (CO) server = api.mybigcampus.com
+2021/08/30 10:19:20 AM LMA: (5552.5556) Customer ID = 62-9140-A000
+2021/08/30 10:19:21 AM LMA: (5552.6208) Debug output mode (from defaults) = Log, Overwrite existing
+2021/08/30 10:19:21 AM LMA: (5552.6208) LMA.exe v3.1.6 build 2 (3.01.06), Release x64,
+    Windows v10.0 build 18363
+    Platform = Win10_x64
+2021/08/30 10:19:21 AM LMA: (5552.6208) Deployment:
+    Production,
+    Device Registration Portal (DRP) server = api.lsfilter.com,
+    Mobile Manager (MM) server = devices.lsmdm.com,
+    Control server = control.lsmdm.com,
+    Classroom Orchestrator (CO) server = api.mybigcampus.com
+2021/08/30 10:19:21 AM LMA: (5552.6208) Loading Mobile Manager settings ...
+2021/08/30 10:19:21 AM LMA: (5552.6208) Loading Classroom Orchestrator settings ...
+2021/08/30 10:19:21 AM LMA: (5552.6208) Mobile Manager Settings:
+    Enabled = false
+    Enrollment Code = ""
+2021/08/30 10:19:21 AM LMA: (5552.6208) Classroom Orchestrator Settings:
+    Enabled = false
+2021/08/30 10:19:21 AM LMA: (5552.6208) Loading User Agent settings ...
+2021/08/30 10:19:21 AM LMA: (5552.6208) User Agent registry value "Identification Server" = "ls-ia.ocps.net"
+2021/08/30 10:19:21 AM LMA: (5552.6208) User Agent registry value "Disable Heartbeat" = false
+2021/08/30 10:19:21 AM LMA: (5552.6208) User Agent registry value "Enabled" = true
+2021/08/30 10:19:21 AM LMA: (5552.6208) Using detected Microsoft network identity provider
+2021/08/30 10:19:21 AM LMA: (5552.6208) File handle type = 37
+2021/08/30 10:19:21 AM LMA: (5552.6248) WMI query thread started
+2021/08/30 10:19:21 AM LMA: (5552.6252) Mobile Manager Check-in thread started
+2021/08/30 10:19:21 AM LMA: (5552.6252) Waiting for WMI query to complete ...
+2021/08/30 10:19:21 AM LMA: (5552.6260) Control thread started
+2021/08/30 10:19:21 AM LMA: (5552.6256) Command dispatch thread started
+2021/08/30 10:19:21 AM LMA: (5552.6256) Timer for Command dispatch set to 300 seconds.
+2021/08/30 10:19:21 AM LMA: (5552.6256) Waiting for WMI query to complete ...
+2021/08/30 10:19:21 AM LMA: (5552.6268) DRP check-in: thread started
+2021/08/30 10:19:21 AM LMA: (5552.6268) DRP check-in timer set for Monday, 2021/08/30 10:19:51 (30 seconds) ...
+2021/08/30 10:19:21 AM LMA: (5552.6268) Ignoring enrollment when both CO and MM are disabled
+2021/08/30 10:19:21 AM LMA: (5552.6272) Traffic Discovery Rate Limiter thread started
+2021/08/30 10:19:21 AM LMA: (5552.6260) CONTROL_CHANNEL::Run: waiting for server name and port from profile ...
+2021/08/30 10:19:21 AM LMA: (5552.6280) Traffic Discovery: IPv4 thread started
+2021/08/30 10:19:21 AM LMA: (5552.6284) Traffic Discovery: IPv6 thread started
+2021/08/30 10:19:21 AM LMA: (5552.6288) Identity heartbeat thread started
+2021/08/30 10:19:21 AM LMA: (5552.6292) IP notify thread started
+2021/08/30 10:19:21 AM LMA: (5552.6208) Lightspeed Management Agent v3.01.06 started.
+
+2021/08/30 10:19:21 AM LMA: (5552.6208) Service running: Console session ID = 1
+2021/08/30 10:19:21 AM LMA: (5552.6304) Service state change thread started
+2021/08/30 10:19:21 AM LMA: (5552.6296) Named Pipe Server started
+2021/08/30 10:19:21 AM LMA: (5552.6300) Settings thread started
+2021/08/30 10:19:21 AM LMA: (5552.6208) Service running: Console session ID = 1, User information not yet available
+2021/08/30 10:19:24 AM LMA: (5552.6248) WMI query completed in 3.369 seconds,
+    Unique Device ID = 3250B2DB-D5ED-5854-A8CF-A65E75BB6E6D,
+    Manufacturer = Dell Inc.,
+    Serial number = /HTZR0F3/CNCMK0014O07F0/,
+    BIOS serial number = HTZR0F3
+2021/08/30 10:19:24 AM LMA: (5552.6252) GetMicrosoftAccountForSessionId: 
+    Security token not yet available for session ID = 1.
+2021/08/30 10:19:24 AM LMA: (5552.6252) WebMmCheckInCreate: Cannot check-in without enrollment code
+2021/08/30 10:19:28 AM LMA: (5552.5556) NotifySessionChange: Console connect, session ID = 1
+2021/08/30 10:19:30 AM LMA: (5552.6292) IP address change detected; waiting 5 seconds before reporting ...
+2021/08/30 10:19:36 AM LMA: (5552.6260) CONTROL_CHANNEL::WaitForSettings: Time-out waiting for server name and port from profile
+2021/08/30 10:19:45 AM LMA: (5552.6292) IP address change detected; waiting 5 seconds before reporting ...
+2021/08/30 10:19:51 AM LMA: (5552.6268) DRP check-in: timer elapsed
+2021/08/30 10:19:51 AM LMA: (5552.6268) GetMicrosoftAccountForSessionId: 
+    Security token not yet available for session ID = 1.
+2021/08/30 10:20:09 AM LMA: (5552.6268) Check-in: Customer ID = 62-9140-A000
+2021/08/30 10:20:09 AM LMA: (5552.6268) WebDrpCheckIn: Update URL = ""
+2021/08/30 10:20:09 AM LMA: (5552.6268) WebDrpCheckIn: Classroom Orchestrator enabled = false
+2021/08/30 10:20:09 AM LMA: (5552.6268) WebDrpCheckIn: Mobile Manager enabled = false
+2021/08/30 10:20:09 AM LMA: (5552.6268) Ignoring enrollment when both CO and MM are disabled
+2021/08/30 10:20:09 AM LMA: (5552.6268) DRP check-in: No software update
+2021/08/30 10:20:09 AM LMA: (5552.6268) DRP check-in: Requested next DRP check-in: 2021-08-31 22:20:09 UTC (31 hours, 59 minutes, 59 seconds)
+2021/08/30 10:20:09 AM LMA: (5552.6268) DRP check-in timer set for Tuesday, 2021/08/31 18:20:09 (31 hours, 59 minutes, 59 seconds) ...
+2021/08/30 10:20:25 AM LMA: (5552.5556) NotifySessionChange: Session logon, session ID = 1
+2021/08/30 10:20:25 AM LMA: (5552.6304) WebMmCheckInCreate: Cannot check-in without enrollment code
+2021/08/30 10:20:25 AM LMA: (5552.6304) Reporting logon for session ID = 1 ...
+2021/08/30 10:20:25 AM LMA: (5552.6268) DRP check-in: signaled
+2021/08/30 10:20:25 AM LMA: (5552.6304) Connecting to identity server = ls-ia.ocps.net:1308 (secure) ...
+2021/08/30 10:20:26 AM LMA: (5552.6304) NT name = "OCPS\4804260513".
+    Unable to create IADsNameTranslate object.
+    CoInitialize has not been called. Error code = 0x800401f0.
+2021/08/30 10:20:26 AM LMA: (5552.6268) Check-in: Customer ID = 62-9140-A000
+2021/08/30 10:20:26 AM LMA: (5552.6268) WebDrpCheckIn: Update URL = ""
+2021/08/30 10:20:26 AM LMA: (5552.6268) WebDrpCheckIn: Classroom Orchestrator enabled = false
+2021/08/30 10:20:26 AM LMA: (5552.6268) WebDrpCheckIn: Mobile Manager enabled = false
+2021/08/30 10:20:26 AM LMA: (5552.6268) Ignoring enrollment when both CO and MM are disabled
+2021/08/30 10:20:26 AM LMA: (5552.6268) DRP check-in: No software update
+2021/08/30 10:20:26 AM LMA: (5552.6268) DRP check-in: Requested next DRP check-in: 2021-08-31 22:20:26 UTC (31 hours, 59 minutes, 59 seconds)
+2021/08/30 10:20:26 AM LMA: (5552.6268) DRP check-in timer set for Tuesday, 2021/08/31 18:20:26 (31 hours, 59 minutes, 59 seconds) ...
+2021/08/30 10:20:27 AM LMA: (5552.6304) AdIdentityReport:
+    Session ID = 1,
+    Microsoft Account Email = "<local>",
+    Domain Name = "OCPS",
+    User Name = "4804260513" (OCPS\4804260513),
+    Computer Name = "ADL-HTZR0F3" (OCPS\ADL-HTZR0F3)
+2021/08/30 10:20:27 AM LMA: (5552.6304) IDENTITY_REPORT::Create:
+    User Name = "OCPS\4804260513",
+    User DN = "",
+    User OU = "",
+    Computer Name = "OCPS\ADL-HTZR0F3",
+    Computer DN = "CN=ADL-HTZR0F3,OU=Laptops,OU=Student Stations,OU=Computers,OU=Southwest,OU=MID,DC=ocps,DC=k12,DC=fl,DC=us",
+    Computer OU = "Laptops.Student Stations.Computers.Southwest.MID",
+    IpAddressCount = 2
+2021/08/30 10:20:27 AM LMA: (5552.6304) Logon reported for session ID = 1
+2021/08/30 10:20:29 AM LMA: (5552.5556) Service control: Suspend
+2021/08/30 10:24:29 AM LMA: (5552.5556) Service control: Resume suspend
+2021/08/30 10:24:30 AM LMA: (5552.5556) Service control: Resume automatic
+2021/08/30 10:24:31 AM LMA: (5552.6304) Reporting IP address change
+2021/08/30 10:24:31 AM LMA: (5552.6304) Connecting to identity server = ls-ia.ocps.net:1308 (secure) ...
+2021/08/30 10:24:35 AM LMA: (5552.6292) IP address change detected; waiting 5 seconds before reporting ...
+2021/08/30 10:24:40 AM LMA: (5552.6292) Reporting IP address change
+2021/08/30 10:24:40 AM LMA: (5552.6292) Connecting to identity server = ls-ia.ocps.net:1308 (secure) ...
+2021/08/30 10:25:09 AM LMA: (5552.6292) IP address change detected; waiting 5 seconds before reporting ...
+2021/08/30 10:25:14 AM LMA: (5552.6292) Reporting IP address change
+2021/08/30 10:25:14 AM LMA: (5552.6292) Connecting to identity server = ls-ia.ocps.net:1308 (secure) ...
+2021/08/30 10:28:14 AM LMA: (5552.6256) Command dispatch timer elapsed
+2021/08/30 10:33:14 AM LMA: (5552.6256) Command dispatch timer elapsed
+2021/08/30 10:38:14 AM LMA: (5552.6256) Command dispatch timer elapsed
+2021/08/30 10:43:14 AM LMA: (5552.6256) Command dispatch timer elapsed
+2021/08/30 10:48:14 AM LMA: (5552.6256) Command dispatch timer elapsed
+2021/08/30 10:53:14 AM LMA: (5552.6256) Command dispatch timer elapsed
+2021/08/30 10:53:14 AM LMA: (5552.6288) Connecting to identity server = ls-ia.ocps.net:1308 (secure) ...
+2021/08/30 10:58:14 AM LMA: (5552.6256) Command dispatch timer elapsed
+2021/08/30 11:03:14 AM LMA: (5552.6256) Command dispatch timer elapsed
+2021/08/30 11:08:14 AM LMA: (5552.6256) Command dispatch timer elapsed
+2021/08/30 11:11:02 AM LMA: (5552.5556) Service control: Suspend
+2021/08/30 11:14:09 AM LMA: (5552.5556) Service control: Resume suspend
+2021/08/30 11:14:09 AM LMA: (5552.5556) Service control: Resume automatic
+2021/08/30 11:14:11 AM LMA: (5552.6304) Reporting IP address change
+2021/08/30 11:14:11 AM LMA: (5552.6304) Connecting to identity server = ls-ia.ocps.net:1308 (secure) ...
+2021/08/30 11:14:11 AM LMA: (5552.6292) IP address change detected; waiting 5 seconds before reporting ...
+2021/08/30 11:14:16 AM LMA: (5552.6292) Reporting IP address change
+2021/08/30 11:14:16 AM LMA: (5552.6292) Connecting to identity server = ls-ia.ocps.net:1308 (secure) ...
+2021/08/30 11:16:16 AM LMA: (5552.6256) Command dispatch timer elapsed
+2021/08/30 11:21:15 AM LMA: (5552.6256) Command dispatch timer elapsed
+2021/08/30 11:26:15 AM LMA: (5552.6256) Command dispatch timer elapsed
+2021/08/30 11:26:15 AM LMA: (5552.6288) Connecting to identity server = ls-ia.ocps.net:1308 (secure) ...
+2021/08/30 11:31:15 AM LMA: (5552.6256) Command dispatch timer elapsed
+2021/08/30 11:36:13 AM LMA: (5552.5556) Service control: power event type = 10
+2021/08/30 11:36:15 AM LMA: (5552.6256) Command dispatch timer elapsed
+2021/08/30 11:36:16 AM LMA: (5552.5556) Service control: power event type = 10
+2021/08/30 11:41:15 AM LMA: (5552.6256) Command dispatch timer elapsed
+2021/08/30 11:46:15 AM LMA: (5552.6256) Command dispatch timer elapsed
+2021/08/30 11:51:15 AM LMA: (5552.6256) Command dispatch timer elapsed

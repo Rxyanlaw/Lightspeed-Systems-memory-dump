@@ -1,0 +1,1254 @@
+2021/07/30 07:44:41 PM SA_SVC: (1052.1332) LSSASvc.exe v1.5.4 build 0 (1.5.4.0), Release x64,
+    Windows v10.0 build 18363,
+    Platform = Win10_x64
+2021/07/30 07:44:41 PM SA_SVC: (1052.1332) RegisterService: Driver v1.5.0 interface v2
+
+2021/07/30 07:44:41 PM SA_SVC: (1052.3764) Starting policy service with command line:
+    [smart-agent-js-win.exe -S -PLATFORM Win10_x64 -c "C:\Program Files\Lightspeed Systems\Smart Agent" -C "C:\Program Files\Lightspeed Systems\Smart Agent" -F "C:\Program Files\Lightspeed Systems\Smart Agent\PolicyData"]
+2021/07/30 07:44:43 PM SA_SVC: (1052.8272) Starting proxy service with command line:
+    [lsproxy.exe --https=:62312]
+2021/07/30 07:44:44 PM SA_SVC: (1052.8272) lsproxy: 2021/07/30 19:44:44 lsproxy 2019-11-07-A Thu Nov  7 16:47:30 CST 2019
+2021/08/26 11:21:19 AM SA_SVC: (4400.4728) LSSASvc.exe v1.5.4 build 0 (1.5.4.0), Release x64,
+    Windows v10.0 build 18363,
+    Platform = Win10_x64
+2021/08/26 11:21:20 AM SA_SVC: (4400.4728) RegisterService: Driver v1.5.0 interface v2
+
+2021/08/26 11:21:20 AM SA_SVC: (4400.5632) Starting policy service with command line:
+    [smart-agent-js-win.exe -S -PLATFORM Win10_x64 -c "C:\Program Files\Lightspeed Systems\Smart Agent" -C "C:\Program Files\Lightspeed Systems\Smart Agent" -F "C:\Program Files\Lightspeed Systems\Smart Agent\PolicyData"]
+2021/08/26 11:21:24 AM SA_SVC: (4400.1640) Starting proxy service with command line:
+    [lsproxy.exe --https=:62312]
+2021/08/26 11:21:24 AM SA_SVC: (4400.1640) lsproxy: 2021/08/26 11:21:24 lsproxy 2019-11-07-A Thu Nov  7 16:47:30 CST 2019
+2021/08/26 11:22:34 AM SA_SVC: (4400.1640) lsproxy: 2021/08/26 11:22:34 [128] NON-CONNECT: blocked context canceled
+2021/08/26 11:30:34 AM SA_SVC: (4400.1640) lsproxy: 2021/08/26 11:30:34 [437] NON-CONNECT: blocked dial tcp: lookup uohwltubc: no such host
+2021/08/26 11:30:34 AM SA_SVC: (4400.1640) lsproxy: 2021/08/26 11:30:34 [438] NON-CONNECT: blocked dial tcp: lookup gleffzkat: no such host
+2021/08/26 11:30:34 AM SA_SVC: (4400.1640) lsproxy: 2021/08/26 11:30:34 [439] NON-CONNECT: blocked dial tcp: lookup ytnictiugv: no such host
+2021/08/26 11:45:19 AM SA_SVC: (4400.1640) lsproxy: 2021/08/26 11:45:19 [6636] NON-CONNECT: blocked dial tcp: lookup udqxntotgw: no such host
+2021/08/26 11:45:19 AM SA_SVC: (4400.1640) lsproxy: 2021/08/26 11:45:19 [6635] NON-CONNECT: blocked dial tcp: lookup vsgxhrz: no such host
+2021/08/26 11:45:19 AM SA_SVC: (4400.1640) lsproxy: 2021/08/26 11:45:19 [6634] NON-CONNECT: blocked dial tcp: lookup xirdsrifuyhrtqw: no such host
+2021/08/26 11:46:38 AM SA_SVC: (4400.1640) lsproxy: 2021/08/26 11:46:38 [7060] NON-CONNECT: blocked dial tcp: lookup yaxolrbu: no such host
+2021/08/26 11:46:38 AM SA_SVC: (4400.1640) lsproxy: 2021/08/26 11:46:38 [7061] NON-CONNECT: blocked dial tcp: lookup zmkjisl: no such host
+2021/08/26 11:46:38 AM SA_SVC: (4400.1640) lsproxy: 2021/08/26 11:46:38 [7063] NON-CONNECT: blocked dial tcp: lookup ramvdniekkbq: no such host
+2021/08/26 12:01:07 PM SA_SVC: (4400.1640) lsproxy: 2021/08/26 12:01:07 [9537] NON-CONNECT: blocked dial tcp: lookup mqxtqoasi: no such host
+2021/08/26 12:01:07 PM SA_SVC: (4400.1640) lsproxy: 2021/08/26 12:01:07 [9535] NON-CONNECT: blocked dial tcp: lookup jgcpbjknyfrs: no such host
+2021/08/26 12:01:07 PM SA_SVC: (4400.1640) lsproxy: 2021/08/26 12:01:07 [9536] NON-CONNECT: blocked dial tcp: lookup khyilbk: no such host
+2021/08/26 12:01:49 PM SA_SVC: (4400.1640) lsproxy: 2021/08/26 12:01:49 [9583] NON-CONNECT: blocked dial tcp: lookup rayyankadar.live: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2021/08/26 12:01:49 PM SA_SVC: (4400.1640) lsproxy: 2021/08/26 12:01:49 [9589] NON-CONNECT: blocked dial tcp: lookup rayyankadar.live: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2021/08/26 12:08:21 PM SA_SVC: (4400.1640) lsproxy: 2021/08/26 12:08:21 [9669] NON-CONNECT: blocked dial tcp: lookup bwsbmkbgsaio: no such host
+2021/08/26 12:08:21 PM SA_SVC: (4400.1640) lsproxy: 2021/08/26 12:08:21 [9670] NON-CONNECT: blocked dial tcp: lookup yjgatvfxsatfye: no such host
+2021/08/26 12:08:21 PM SA_SVC: (4400.1640) lsproxy: 2021/08/26 12:08:21 [9671] NON-CONNECT: blocked dial tcp: lookup ofpuzpxzyluwfde: no such host
+2021/08/26 12:08:26 PM SA_SVC: (4400.1640) lsproxy: 2021/08/26 12:08:26 [9685] NON-CONNECT: blocked dial tcp: lookup zfonotcuxobfej: no such host
+2021/08/26 12:08:26 PM SA_SVC: (4400.1640) lsproxy: 2021/08/26 12:08:26 [9687] NON-CONNECT: blocked dial tcp: lookup czfbckhowaodqy: no such host
+2021/08/26 12:08:26 PM SA_SVC: (4400.1640) lsproxy: 2021/08/26 12:08:26 [9686] NON-CONNECT: blocked dial tcp: lookup rmrifsoiefnec: no such host
+2021/08/26 12:37:17 PM SA_SVC: (4400.1640) lsproxy: 2021/08/26 12:37:17 [14669] NON-CONNECT: blocked dial tcp: lookup dgpjyhlaoeb: no such host
+2021/08/26 12:37:17 PM SA_SVC: (4400.1640) lsproxy: 2021/08/26 12:37:17 [14668] NON-CONNECT: blocked dial tcp: lookup ptfisxw: no such host
+2021/08/26 12:37:17 PM SA_SVC: (4400.1640) lsproxy: 2021/08/26 12:37:17 [14670] NON-CONNECT: blocked dial tcp: lookup ufhsawteywbvuz: no such host
+2021/08/26 12:38:09 PM SA_SVC: (4408.356) LSSASvc.exe v1.5.4 build 0 (1.5.4.0), Release x64,
+    Windows v10.0 build 18363,
+    Platform = Win10_x64
+2021/08/26 12:38:10 PM SA_SVC: (4408.356) RegisterService: Driver v1.5.0 interface v2
+
+2021/08/26 12:38:10 PM SA_SVC: (4408.5644) Starting policy service with command line:
+    [smart-agent-js-win.exe -S -PLATFORM Win10_x64 -c "C:\Program Files\Lightspeed Systems\Smart Agent" -C "C:\Program Files\Lightspeed Systems\Smart Agent" -F "C:\Program Files\Lightspeed Systems\Smart Agent\PolicyData"]
+2021/08/26 12:38:19 PM SA_SVC: (4408.6492) Starting proxy service with command line:
+    [lsproxy.exe --https=:62312]
+2021/08/26 12:38:21 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 12:38:21 lsproxy 2019-11-07-A Thu Nov  7 16:47:30 CST 2019
+2021/08/26 12:42:19 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 12:42:19 [176] NON-CONNECT: blocked dial tcp: lookup nojweabnxanv: no such host
+2021/08/26 12:42:19 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 12:42:19 [175] NON-CONNECT: blocked dial tcp: lookup inbtpjwkux: no such host
+2021/08/26 12:42:19 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 12:42:19 [174] NON-CONNECT: blocked dial tcp: lookup kzhdcrinlhdjdk: no such host
+2021/08/26 01:28:27 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 13:28:27 [2610] NON-CONNECT: blocked dial tcp: lookup ca: no such host
+2021/08/26 01:28:28 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 13:28:28 [2627] NON-CONNECT: blocked dial tcp: lookup pmrldsnvnuhk: no such host
+2021/08/26 01:28:28 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 13:28:28 [2625] NON-CONNECT: blocked dial tcp: lookup tcsjdgkvabsfy: no such host
+2021/08/26 01:28:28 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 13:28:28 [2626] NON-CONNECT: blocked dial tcp: lookup fyogqkfjyyjkea: no such host
+2021/08/26 01:32:47 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 13:32:47 [4476] NON-CONNECT: blocked dial tcp: lookup wmjomxiylynsmuf: no such host
+2021/08/26 01:32:47 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 13:32:47 [4477] NON-CONNECT: blocked dial tcp: lookup ddssvtq: no such host
+2021/08/26 01:32:47 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 13:32:47 [4475] NON-CONNECT: blocked dial tcp: lookup ztxrrnighwo: no such host
+2021/08/26 03:10:30 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 15:10:30 [5261] NON-CONNECT: blocked dial tcp: lookup qfsqldqcnrfmxdi: no such host
+2021/08/26 03:10:30 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 15:10:30 [5263] NON-CONNECT: blocked dial tcp: lookup hbsvnvgg: no such host
+2021/08/26 03:10:30 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 15:10:30 [5262] NON-CONNECT: blocked dial tcp: lookup jpvpunpklimesq: no such host
+2021/08/26 03:10:36 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 15:10:36 [5267] NON-CONNECT: blocked dial tcp: lookup zqnmpjomi: no such host
+2021/08/26 03:10:36 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 15:10:36 [5266] NON-CONNECT: blocked dial tcp: lookup kaghwmg: no such host
+2021/08/26 03:10:36 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 15:10:36 [5265] NON-CONNECT: blocked dial tcp: lookup fdueveohnni: no such host
+2021/08/26 03:42:03 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 15:42:03 [13995] NON-CONNECT: blocked dial tcp: lookup tinkercad: no such host
+2021/08/26 03:44:08 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 15:44:08 [14968] NON-CONNECT: blocked dial tcp: lookup tajpbepuw: no such host
+2021/08/26 03:44:08 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 15:44:08 [14967] NON-CONNECT: blocked dial tcp: lookup vivnpfn: no such host
+2021/08/26 03:44:08 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 15:44:08 [14966] NON-CONNECT: blocked dial tcp: lookup mzduwnwsztzfzq: no such host
+2021/08/26 03:44:12 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 15:44:12 [14970] NON-CONNECT: blocked dial tcp: lookup qiyekcrgvdgxv: no such host
+2021/08/26 03:44:12 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 15:44:12 [14972] NON-CONNECT: blocked dial tcp: lookup jryegmbgx: no such host
+2021/08/26 03:44:12 PM SA_SVC: (4408.6492) lsproxy: 2021/08/26 15:44:12 [14971] NON-CONNECT: blocked dial tcp: lookup uauuqgy: no such host
+2021/08/26 05:41:53 PM SA_SVC: (4408.4744) LSSASvc.exe v1.5.4 build 0 (1.5.4.0), Release x64,
+    Windows v10.0 build 18363,
+    Platform = Win10_x64
+2021/08/26 05:41:54 PM SA_SVC: (4408.4744) RegisterService: Driver v1.5.0 interface v2
+
+2021/08/26 05:41:54 PM SA_SVC: (4408.5888) Starting policy service with command line:
+    [smart-agent-js-win.exe -S -PLATFORM Win10_x64 -c "C:\Program Files\Lightspeed Systems\Smart Agent" -C "C:\Program Files\Lightspeed Systems\Smart Agent" -F "C:\Program Files\Lightspeed Systems\Smart Agent\PolicyData"]
+2021/08/26 05:41:59 PM SA_SVC: (4408.6432) Starting proxy service with command line:
+    [lsproxy.exe --https=:62312]
+2021/08/26 05:42:00 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:42:00 lsproxy 2019-11-07-A Thu Nov  7 16:47:30 CST 2019
+2021/08/26 05:43:20 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:20 [9] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:24 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:24 [10] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:24 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:24 [11] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:24 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:24 [12] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:26 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:26 [13] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:27 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:27 [14] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:27 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:27 [15] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:27 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:27 [16] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:27 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:27 [17] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:27 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:27 [18] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:28 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:28 [19] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:28 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:28 [20] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:28 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:28 [21] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:29 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:29 [22] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:30 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:30 [23] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:30 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:30 [24] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:31 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:31 [26] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:31 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:31 [30] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:32 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:32 [33] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/26 05:43:32 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:32 [36] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:32 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:32 [37] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/26 05:43:32 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:32 [38] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:32 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:32 [40] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/26 05:43:32 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:32 [44] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:32 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:32 [45] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/26 05:43:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:33 [48] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:33 [49] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/26 05:43:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:33 [50] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:33 [51] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:33 [56] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:33 [57] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:34 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:34 [58] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:34 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:34 [59] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:34 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:34 [60] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:34 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:34 [61] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:38 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:38 [65] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:38 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:38 [66] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:38 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:38 [67] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:38 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:38 [70] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:39 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:39 [71] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:39 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:39 [72] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:39 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:39 [73] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:40 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:40 [74] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:40 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:40 [75] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:40 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:40 [76] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:40 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:40 [77] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:40 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:40 [78] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:40 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:40 [79] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:41 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:41 [80] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:41 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:41 [81] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:41 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:41 [82] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:46 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:46 [85] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:46 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:46 [86] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:47 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:47 [87] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:47 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:47 [88] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:47 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:47 [89] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:47 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:47 [90] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:47 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:47 [91] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:48 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:48 [92] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:48 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:48 [93] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:48 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:48 [94] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:48 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:48 [95] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:48 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:48 [96] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:48 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:48 [98] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:49 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:49 [99] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:52 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:52 [113] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:52 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:52 [114] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:52 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:52 [115] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:52 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:52 [116] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:52 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:52 [117] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:53 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:53 [118] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:53 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:53 [119] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:43:53 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:43:53 [120] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:03 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:03 [133] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:03 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:03 [134] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:03 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:03 [135] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:03 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:03 [136] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:04 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:04 [137] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:04 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:04 [138] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:04 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:04 [139] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:04 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:04 [140] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:05 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:05 [141] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:06 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:06 [142] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:06 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:06 [143] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:06 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:06 [144] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:06 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:06 [145] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:06 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:06 [146] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:06 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:06 [147] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:07 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:07 [149] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:07 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:07 [148] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:07 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:07 [150] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:07 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:07 [151] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:07 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:07 [152] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:07 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:07 [153] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:08 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:08 [154] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:08 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:08 [155] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:08 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:08 [156] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:08 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:08 [157] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:08 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:08 [158] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:08 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:08 [159] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:09 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:09 [160] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:09 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:09 [161] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:09 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:09 [162] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:09 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:09 [163] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:09 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:09 [164] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:09 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:09 [165] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:10 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:10 [166] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:10 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:10 [167] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:10 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:10 [168] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:10 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:10 [169] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:10 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:10 [170] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:10 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:10 [171] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:11 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:11 [172] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:11 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:11 [173] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:11 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:11 [174] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:11 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:11 [175] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:11 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:11 [176] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:11 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:11 [177] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:12 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:12 [178] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:12 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:12 [179] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:12 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:12 [180] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:12 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:12 [181] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:12 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:12 [182] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:13 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:13 [183] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:13 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:13 [184] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:13 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:13 [185] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:13 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:13 [186] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:13 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:13 [187] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:13 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:13 [188] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:13 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:13 [189] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:14 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:14 [190] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:14 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:14 [191] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:14 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:14 [192] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:14 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:14 [193] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:14 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:14 [194] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:14 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:14 [195] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:14 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:14 [196] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:26 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:26 [197] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:26 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:26 [198] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:26 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:26 [199] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:26 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:26 [200] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:27 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:27 [202] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:27 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:27 [203] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:27 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:27 [204] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:27 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:27 [205] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:27 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:27 [206] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:28 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:28 [207] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:28 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:28 [211] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:44:28 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:44:28 [212] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:49:31 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:49:31 [375] NON-CONNECT: blocked dial tcp: lookup oeveaxfjjzoyg: no such host
+2021/08/26 05:49:31 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:49:31 [376] NON-CONNECT: blocked dial tcp: lookup urgphyusljgo: no such host
+2021/08/26 05:49:31 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:49:31 [377] NON-CONNECT: blocked dial tcp: lookup zcsizbjgyzklmt: no such host
+2021/08/26 05:56:48 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:48 [2102] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:48 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:48 [2103] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:48 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:48 [2104] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:48 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:48 [2105] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:49 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:49 [2106] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:49 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:49 [2107] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:49 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:49 [2108] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:49 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:49 [2109] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:49 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:49 [2110] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:49 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:49 [2111] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:50 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:50 [2112] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:50 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:50 [2113] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:50 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:50 [2114] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:50 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:50 [2115] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:50 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:50 [2116] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:50 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:50 [2117] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:51 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:51 [2118] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:51 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:51 [2119] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:51 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:51 [2120] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:51 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:51 [2121] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:51 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:51 [2122] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:51 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:51 [2123] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:51 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:51 [2124] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:52 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:52 [2125] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:52 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:52 [2126] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:52 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:52 [2127] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:52 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:52 [2128] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:52 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:52 [2129] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:52 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:52 [2130] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:53 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:53 [2131] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:53 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:53 [2132] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:53 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:53 [2133] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:53 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:53 [2134] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:53 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:53 [2135] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:53 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:53 [2136] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:54 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:54 [2137] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:54 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:54 [2138] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:54 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:54 [2139] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:54 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:54 [2140] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:54 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:54 [2141] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:54 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:54 [2142] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:54 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:54 [2143] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:55 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:55 [2144] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:55 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:55 [2145] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:55 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:55 [2146] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:55 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:55 [2147] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:55 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:55 [2148] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:55 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:55 [2149] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:56 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:56 [2150] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:56 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:56 [2151] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:56 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:56 [2152] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:56 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:56 [2153] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:56 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:56 [2154] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:56 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:56 [2155] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:56 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:56 [2156] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:57 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:57 [2157] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:57 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:57 [2158] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:57 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:57 [2159] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:57 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:57 [2160] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:57 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:57 [2161] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:57 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:57 [2162] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:58 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:58 [2163] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:58 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:58 [2164] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:58 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:58 [2165] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:58 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:58 [2166] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:58 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:58 [2167] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:58 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:58 [2168] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:58 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:58 [2169] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:59 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:59 [2170] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:59 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:59 [2171] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:59 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:59 [2172] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:59 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:59 [2173] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:59 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:59 [2174] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:56:59 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:56:59 [2175] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:00 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:00 [2176] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:00 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:00 [2177] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:00 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:00 [2178] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:00 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:00 [2179] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:00 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:00 [2180] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:00 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:00 [2181] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:01 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:01 [2182] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:01 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:01 [2183] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:01 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:01 [2184] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:01 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:01 [2185] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:01 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:01 [2186] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:01 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:01 [2187] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:01 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:01 [2188] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:02 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:02 [2189] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:02 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:02 [2190] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:02 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:02 [2191] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:02 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:02 [2192] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:02 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:02 [2193] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:02 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:02 [2194] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:03 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:03 [2195] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:03 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:03 [2196] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:03 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:03 [2197] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:03 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:03 [2198] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:03 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:03 [2199] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:03 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:03 [2200] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:03 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:03 [2201] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:04 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:04 [2202] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:04 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:04 [2203] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:04 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:04 [2204] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:04 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:04 [2205] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:04 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:04 [2206] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:04 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:04 [2207] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:05 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:05 [2208] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:05 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:05 [2209] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:05 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:05 [2210] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:05 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:05 [2211] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:05 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:05 [2212] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:05 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:05 [2213] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:06 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:06 [2214] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:06 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:06 [2215] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:06 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:06 [2217] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:06 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:06 [2218] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:06 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:06 [2219] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:06 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:06 [2220] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:07 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:07 [2221] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:07 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:07 [2222] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:07 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:07 [2223] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:07 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:07 [2224] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:07 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:07 [2225] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:07 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:07 [2226] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:08 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:08 [2227] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:08 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:08 [2228] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:08 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:08 [2229] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:08 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:08 [2230] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:08 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:08 [2231] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:08 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:08 [2232] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:08 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:08 [2233] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:09 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:09 [2234] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:09 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:09 [2235] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:09 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:09 [2236] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:09 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:09 [2237] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:09 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:09 [2238] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:09 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:09 [2239] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:10 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:10 [2240] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:10 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:10 [2241] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:10 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:10 [2242] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:10 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:10 [2243] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:10 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:10 [2244] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:10 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:10 [2245] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:10 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:10 [2246] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:11 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:11 [2247] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:11 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:11 [2248] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:11 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:11 [2249] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:11 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:11 [2250] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:11 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:11 [2251] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:11 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:11 [2252] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:12 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:12 [2253] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:12 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:12 [2254] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:12 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:12 [2255] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:12 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:12 [2256] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:12 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:12 [2257] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:12 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:12 [2258] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:12 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:12 [2259] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:13 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:13 [2260] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:13 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:13 [2261] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:13 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:13 [2262] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:13 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:13 [2263] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:13 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:13 [2264] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:13 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:13 [2265] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:14 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:14 [2266] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:14 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:14 [2267] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:14 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:14 [2268] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:14 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:14 [2269] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:14 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:14 [2270] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:14 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:14 [2271] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:14 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:14 [2272] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:15 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:15 [2273] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:15 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:15 [2274] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:15 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:15 [2275] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:15 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:15 [2276] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:15 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:15 [2277] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:15 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:15 [2278] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:16 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:16 [2279] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:16 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:16 [2280] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:16 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:16 [2281] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:16 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:16 [2282] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:16 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:16 [2283] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:16 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:16 [2284] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:17 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:17 [2285] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:17 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:17 [2286] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:17 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:17 [2287] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:17 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:17 [2288] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:17 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:17 [2289] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:17 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:17 [2290] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:17 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:17 [2291] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:18 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:18 [2292] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:18 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:18 [2293] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:18 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:18 [2294] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:18 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:18 [2295] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:18 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:18 [2296] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:18 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:18 [2297] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:19 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:19 [2298] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:19 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:19 [2299] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:19 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:19 [2300] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:19 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:19 [2301] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:19 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:19 [2302] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 05:57:20 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 17:57:20 [2303] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:45:46 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:46 [2356] NON-CONNECT: blocked dial tcp: lookup smuajtsiwugqwj: no such host
+2021/08/26 09:45:46 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:46 [2358] NON-CONNECT: blocked dial tcp: lookup tfwvpsincbfctai: no such host
+2021/08/26 09:45:46 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:46 [2357] NON-CONNECT: blocked dial tcp: lookup hcpebecplq: no such host
+2021/08/26 09:45:49 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:49 [2379] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:45:50 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:50 [2382] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:45:51 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:51 [2387] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:45:51 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:51 [2390] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:45:52 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:52 [2391] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:45:52 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:52 [2394] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:45:53 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:53 [2395] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:45:53 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:53 [2396] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:45:54 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:54 [2397] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:45:54 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:54 [2398] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:45:54 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:54 [2399] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:45:55 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:55 [2400] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:45:55 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:55 [2401] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:45:55 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:55 [2402] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:45:56 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:56 [2403] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:45:56 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:56 [2404] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:45:56 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:56 [2405] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:45:57 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:57 [2406] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:45:57 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:45:57 [2407] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:46:01 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:46:01 [2417] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:46:01 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:46:01 [2418] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:49:11 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:49:11 [2733] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:49:11 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:49:11 [2734] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:49:11 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:49:11 [2737] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 09:49:12 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:49:12 [2740] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/26 09:49:12 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:49:12 [2741] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/26 09:49:12 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:49:12 [2742] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/26 09:49:12 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:49:12 [2743] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/26 09:49:12 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 21:49:12 [2744] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/26 10:00:22 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:00:22 [4719] NON-CONNECT: blocked context canceled
+2021/08/26 10:01:01 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:01:01 [4746] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:01:01 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:01:01 [4747] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:01:01 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:01:01 [4748] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:23:22 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:23:22 [7130] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:23:23 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:23:23 [7131] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:23:23 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:23:23 [7132] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:23:23 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:23:23 [7133] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:23:23 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:23:23 [7134] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:23:24 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:23:24 [7135] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:23:24 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:23:24 [7136] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:23:24 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:23:24 [7137] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:23:24 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:23:24 [7139] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:23:24 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:23:24 [7141] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:23:25 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:23:25 [7142] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:23:25 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:23:25 [7145] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:23:25 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:23:25 [7146] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:23:25 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:23:25 [7147] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:23:26 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:23:26 [7148] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:23:26 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:23:26 [7149] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:23:26 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:23:26 [7150] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:23:26 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:23:26 [7151] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:23:27 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:23:27 [7152] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:53:30 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:53:30 [7190] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:53:31 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:53:31 [7192] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:53:31 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:53:31 [7193] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:53:32 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:53:32 [7194] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/26 10:53:32 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:53:32 [7195] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:53:32 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:53:32 [7196] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/26 10:53:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:53:33 [7197] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:53:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:53:33 [7198] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/26 10:53:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:53:33 [7199] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:53:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:53:33 [7200] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/26 10:53:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:53:33 [7201] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:53:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:53:33 [7202] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/26 10:53:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:53:33 [7203] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:53:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:53:33 [7204] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:53:34 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:53:34 [7205] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 10:53:34 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 22:53:34 [7206] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:31 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:31 [7238] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:31 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:31 [7240] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:31 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:31 [7241] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:32 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:32 [7242] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:32 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:32 [7243] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:33 [7244] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:33 [7245] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:33 [7246] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:33 [7247] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:33 [7248] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:33 [7249] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:33 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:33 [7250] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:34 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:34 [7251] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:34 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:34 [7252] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:34 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:34 [7253] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:34 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:34 [7254] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:34 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:34 [7255] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:34 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:34 [7256] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:35 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:35 [7257] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:35 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:35 [7258] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:35 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:35 [7259] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:35 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:35 [7260] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:35 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:35 [7261] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:35 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:35 [7262] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:07:35 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:07:35 [7263] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:09:07 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:09:07 [7264] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:09:07 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:09:07 [7265] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:09:08 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:09:08 [7266] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:09:08 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:09:08 [7267] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:09:08 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:09:08 [7268] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:09:08 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:09:08 [7269] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:09:08 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:09:08 [7270] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:09:08 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:09:08 [7271] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/26 11:09:09 PM SA_SVC: (4408.6432) lsproxy: 2021/08/26 23:09:09 [7272] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:24:43 AM SA_SVC: (4408.6432) lsproxy: 2021/08/27 00:24:43 [7347] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:24:44 AM SA_SVC: (4408.6432) lsproxy: 2021/08/27 00:24:44 [7348] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:24:44 AM SA_SVC: (4408.6432) lsproxy: 2021/08/27 00:24:44 [7349] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:24:47 AM SA_SVC: (4408.6432) lsproxy: 2021/08/27 00:24:47 [7350] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:24:48 AM SA_SVC: (4408.6432) lsproxy: 2021/08/27 00:24:48 [7351] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:26:33 AM SA_SVC: (4408.6432) lsproxy: 2021/08/27 00:26:33 [7362] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:26:33 AM SA_SVC: (4408.6432) lsproxy: 2021/08/27 00:26:33 [7363] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:26:34 AM SA_SVC: (4408.6432) lsproxy: 2021/08/27 00:26:34 [7364] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:26:34 AM SA_SVC: (4408.6432) lsproxy: 2021/08/27 00:26:34 [7365] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:26:34 AM SA_SVC: (4408.6432) lsproxy: 2021/08/27 00:26:34 [7366] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:31:03 AM SA_SVC: (4408.6432) lsproxy: 2021/08/27 00:31:03 [7375] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:31:04 AM SA_SVC: (4408.6432) lsproxy: 2021/08/27 00:31:04 [7376] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:31:04 AM SA_SVC: (4408.6432) lsproxy: 2021/08/27 00:31:04 [7377] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:31:04 AM SA_SVC: (4408.6432) lsproxy: 2021/08/27 00:31:04 [7378] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:31:04 AM SA_SVC: (4408.6432) lsproxy: 2021/08/27 00:31:04 [7379] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:31:04 AM SA_SVC: (4408.6432) lsproxy: 2021/08/27 00:31:04 [7380] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:31:04 AM SA_SVC: (4408.6432) lsproxy: 2021/08/27 00:31:04 [7381] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:31:05 AM SA_SVC: (4408.6432) lsproxy: 2021/08/27 00:31:05 [7382] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:31:05 AM SA_SVC: (4408.6432) lsproxy: 2021/08/27 00:31:05 [7383] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:31:05 AM SA_SVC: (4408.6432) lsproxy: 2021/08/27 00:31:05 [7384] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 12:57:11 AM SA_SVC: (4904.5292) LSSASvc.exe v1.5.4 build 0 (1.5.4.0), Release x64,
+    Windows v10.0 build 18363,
+    Platform = Win10_x64
+2021/08/27 12:57:13 AM SA_SVC: (4904.5292) RegisterService: Driver v1.5.0 interface v2
+
+2021/08/27 12:57:13 AM SA_SVC: (4904.7644) Starting policy service with command line:
+    [smart-agent-js-win.exe -S -PLATFORM Win10_x64 -c "C:\Program Files\Lightspeed Systems\Smart Agent" -C "C:\Program Files\Lightspeed Systems\Smart Agent" -F "C:\Program Files\Lightspeed Systems\Smart Agent\PolicyData"]
+2021/08/27 12:57:19 AM SA_SVC: (4904.5872) Starting proxy service with command line:
+    [lsproxy.exe --https=:62312]
+2021/08/27 12:57:22 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 00:57:22 lsproxy 2019-11-07-A Thu Nov  7 16:47:30 CST 2019
+2021/08/27 07:40:53 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:40:53 [123] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:40:57 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:40:57 [124] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:40:57 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:40:57 [125] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:40:57 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:40:57 [126] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:40:57 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:40:57 [127] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:40:58 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:40:58 [128] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:40:58 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:40:58 [129] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:40:58 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:40:58 [130] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:40:58 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:40:58 [131] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:40:58 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:40:58 [132] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:40:58 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:40:58 [133] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:40:58 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:40:58 [134] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:40:59 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:40:59 [135] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:40:59 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:40:59 [136] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:40:59 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:40:59 [137] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:40:59 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:40:59 [138] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:40:59 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:40:59 [139] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:40:59 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:40:59 [140] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:40:59 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:40:59 [141] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:00 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:00 [142] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:00 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:00 [143] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:00 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:00 [144] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:05 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:05 [152] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:06 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:06 [153] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:06 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:06 [154] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:06 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:06 [155] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:06 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:06 [156] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:07 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:07 [157] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:07 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:07 [158] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:07 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:07 [159] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:07 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:07 [160] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:08 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:08 [161] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:08 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:08 [162] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:08 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:08 [163] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:08 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:08 [164] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:08 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:08 [165] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:09 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:09 [166] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:09 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:09 [167] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:18 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:18 [172] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:18 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:18 [173] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:18 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:18 [174] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:19 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:19 [175] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:19 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:19 [176] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:20 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:20 [177] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:20 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:20 [178] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:20 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:20 [179] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:20 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:20 [180] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:21 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:21 [181] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:21 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:21 [182] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:21 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:21 [183] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:21 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:21 [184] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:22 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:22 [185] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:22 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:22 [186] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:22 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:22 [187] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:22 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:22 [188] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:23 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:23 [189] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:23 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:23 [190] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:23 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:23 [191] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:23 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:23 [192] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:23 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:23 [193] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:25 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:25 [194] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:26 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:26 [195] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:26 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:26 [197] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:26 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:26 [198] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:26 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:26 [199] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:27 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:27 [201] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:27 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:27 [202] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:27 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:27 [203] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:28 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:28 [204] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:28 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:28 [205] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:29 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:29 [206] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:41:29 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:29 [207] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:41:29 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:29 [208] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:30 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:30 [209] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:41:30 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:30 [210] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:30 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:30 [211] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:41:30 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:30 [212] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:30 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:30 [213] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:41:30 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:30 [214] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:34 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:34 [215] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:34 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:34 [220] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:35 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:35 [222] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:35 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:35 [223] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:35 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:35 [229] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:36 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:36 [234] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:36 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:36 [237] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:36 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:36 [244] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:38 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:38 [251] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:38 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:38 [252] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:39 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:39 [253] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:39 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:39 [254] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:40 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:40 [255] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:40 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:40 [256] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:40 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:40 [257] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:41 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:41 [258] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:41 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:41 [259] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:41 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:41 [260] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:41 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:41 [261] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:41 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:41 [262] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:42 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:42 [263] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:42 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:42 [264] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:42 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:42 [265] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:42 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:42 [266] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:42 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:42 [269] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:43 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:43 [270] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:43 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:43 [271] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:43 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:43 [272] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:43 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:43 [273] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:44 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:44 [274] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:44 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:44 [275] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:45 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:45 [276] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:45 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:45 [277] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:41:45 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:45 [278] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:45 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:45 [279] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:41:46 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:46 [280] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:46 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:46 [281] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:41:47 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:47 [282] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:41:47 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:47 [283] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:47 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:47 [284] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:41:47 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:47 [285] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:47 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:47 [286] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:41:47 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:47 [287] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:48 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:48 [288] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:41:48 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:48 [289] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:48 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:48 [291] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:41:48 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:48 [293] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:41:49 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:49 [294] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:41:50 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:50 [295] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:41:50 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:50 [296] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:41:50 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:50 [297] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:51 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:51 [298] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:54 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:54 [303] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:54 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:54 [307] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:55 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:55 [309] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:55 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:55 [310] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:55 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:55 [313] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:55 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:55 [314] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:56 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:56 [315] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:41:56 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:41:56 [316] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:42:01 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:42:01 [322] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:42:01 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:42:01 [323] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:42:02 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:42:02 [324] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:42:02 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:42:02 [325] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:42:02 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:42:02 [327] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:42:02 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:42:02 [328] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:42:02 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:42:02 [329] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:42:03 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:42:03 [330] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:42:22 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:42:22 [380] NON-CONNECT: blocked dial tcp: lookup aelcm02: no such host
+2021/08/27 07:42:24 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:42:24 [384] NON-CONNECT: blocked dial tcp: lookup aelcm02: no such host
+2021/08/27 07:43:13 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:43:13 [401] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:43:13 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:43:13 [402] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:43:14 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:43:14 [403] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:43:14 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:43:14 [404] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:43:14 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:43:14 [405] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:43:14 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:43:14 [406] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:43:14 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:43:14 [407] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:43:43 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:43:43 [426] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:43:43 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:43:43 [427] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:43:43 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:43:43 [428] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:45:39 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:45:39 [653] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:45:39 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:45:39 [654] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:45:39 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:45:39 [655] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:45:40 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:45:40 [656] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:45:40 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:45:40 [657] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:46:15 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:46:15 [666] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:46:16 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:46:16 [667] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:46:16 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:46:16 [668] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:46:16 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:46:16 [669] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:46:16 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:46:16 [670] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 07:47:28 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:47:28 [772] NON-CONNECT: blocked dial tcp: lookup hynanketelxthak: no such host
+2021/08/27 07:47:28 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:47:28 [774] NON-CONNECT: blocked dial tcp: lookup njcvwzutyax: no such host
+2021/08/27 07:47:28 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:47:28 [773] NON-CONNECT: blocked dial tcp: lookup jnweogitmgkwu: no such host
+2021/08/27 07:47:55 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:47:55 [1004] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:47:55 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:47:55 [1007] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:47:55 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:47:55 [1008] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:47:55 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:47:55 [1009] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:47:55 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:47:55 [1010] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:47:56 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:47:56 [1011] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:47:56 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:47:56 [1012] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:47:56 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:47:56 [1013] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:47:56 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:47:56 [1014] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 07:54:44 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:54:44 [1637] NON-CONNECT: blocked read tcp 192.168.0.113:58192->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 07:55:04 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:55:04 [1638] NON-CONNECT: blocked read tcp 192.168.0.113:61843->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 07:55:04 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 07:55:04 [1639] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:03:37 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 08:03:37 [3703] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:03:37 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 08:03:37 [3704] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:03:37 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 08:03:37 [3707] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:03:38 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 08:03:38 [3710] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:03:38 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 08:03:38 [3711] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:03:38 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 08:03:38 [3712] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:03:38 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 08:03:38 [3713] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:03:38 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 08:03:38 [3714] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:03:39 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 08:03:39 [3715] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 09:15:56 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:15:56 [3719] NON-CONNECT: blocked dial tcp: lookup djkuxvvsiuqb: no such host
+2021/08/27 09:15:56 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:15:56 [3720] NON-CONNECT: blocked dial tcp: lookup qnibymiv: no such host
+2021/08/27 09:15:56 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:15:56 [3721] NON-CONNECT: blocked dial tcp: lookup wpejevsv: no such host
+2021/08/27 09:15:59 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:15:59 [3735] NON-CONNECT: blocked dial tcp: lookup ezrsratrvdr: no such host
+2021/08/27 09:15:59 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:15:59 [3737] NON-CONNECT: blocked dial tcp: lookup woaxbtkdg: no such host
+2021/08/27 09:15:59 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:15:59 [3736] NON-CONNECT: blocked dial tcp: lookup vpyqgnnejoa: no such host
+2021/08/27 09:15:59 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:15:59 [3740] NON-CONNECT: blocked dial tcp: lookup slbrpkoqbfw: no such host
+2021/08/27 09:15:59 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:15:59 [3738] NON-CONNECT: blocked dial tcp: lookup hwjrewnubmy: no such host
+2021/08/27 09:15:59 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:15:59 [3739] NON-CONNECT: blocked dial tcp: lookup ilbynqe: no such host
+2021/08/27 09:29:02 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:29:02 [6057] NON-CONNECT: blocked dial tcp: lookup pbcmybq: no such host
+2021/08/27 09:29:02 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:29:02 [6059] NON-CONNECT: blocked dial tcp: lookup oyonbehdurqw: no such host
+2021/08/27 09:29:02 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:29:02 [6058] NON-CONNECT: blocked dial tcp: lookup gmijvzdumg: no such host
+2021/08/27 09:29:06 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:29:06 [6069] NON-CONNECT: blocked dial tcp: lookup txkurjbav: no such host
+2021/08/27 09:29:06 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:29:06 [6070] NON-CONNECT: blocked dial tcp: lookup azmbauxbwkz: no such host
+2021/08/27 09:29:06 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:29:06 [6071] NON-CONNECT: blocked dial tcp: lookup yowujzivfu: no such host
+2021/08/27 09:30:18 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:30:18 [6590] NON-CONNECT: blocked dial tcp: lookup wsarecv: no such host
+2021/08/27 09:40:45 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:40:45 [7959] NON-CONNECT: blocked dial tcp: lookup rrrqbkp: no such host
+2021/08/27 09:40:45 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:40:45 [7960] NON-CONNECT: blocked dial tcp: lookup jjilmot: no such host
+2021/08/27 09:40:45 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:40:45 [7961] NON-CONNECT: blocked dial tcp: lookup qckoswccokfol: no such host
+2021/08/27 09:45:42 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:45:42 [7976] NON-CONNECT: blocked dial tcp: lookup rtcahvj: no such host
+2021/08/27 09:45:42 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:45:42 [7975] NON-CONNECT: blocked dial tcp: lookup julgbaqtesobmt: no such host
+2021/08/27 09:45:42 AM SA_SVC: (4904.5872) lsproxy: 2021/08/27 09:45:42 [7974] NON-CONNECT: blocked dial tcp: lookup bftzrjkhriya: no such host
+2021/08/27 09:52:37 AM SA_SVC: (4856.5124) LSSASvc.exe v1.5.4 build 0 (1.5.4.0), Release x64,
+    Windows v10.0 build 18363,
+    Platform = Win10_x64
+2021/08/27 09:52:38 AM SA_SVC: (4856.5124) RegisterService: Driver v1.5.0 interface v2
+
+2021/08/27 09:52:38 AM SA_SVC: (4856.6076) Starting policy service with command line:
+    [smart-agent-js-win.exe -S -PLATFORM Win10_x64 -c "C:\Program Files\Lightspeed Systems\Smart Agent" -C "C:\Program Files\Lightspeed Systems\Smart Agent" -F "C:\Program Files\Lightspeed Systems\Smart Agent\PolicyData"]
+2021/08/27 09:52:44 AM SA_SVC: (4856.6988) Starting proxy service with command line:
+    [lsproxy.exe --https=:62312]
+2021/08/27 09:52:45 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 09:52:45 lsproxy 2019-11-07-A Thu Nov  7 16:47:30 CST 2019
+2021/08/27 09:54:13 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 09:54:13 [110] NON-CONNECT: blocked dial tcp: lookup cehwhos: no such host
+2021/08/27 09:54:13 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 09:54:13 [112] NON-CONNECT: blocked dial tcp: lookup xpmhfdkxka: no such host
+2021/08/27 09:54:13 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 09:54:13 [111] NON-CONNECT: blocked dial tcp: lookup vqjjxhf: no such host
+2021/08/27 09:54:43 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 09:54:43 [239] NON-CONNECT: blocked dial tcp: lookup jgcjtqlaybcgq: no such host
+2021/08/27 09:54:43 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 09:54:43 [238] NON-CONNECT: blocked dial tcp: lookup bjeahgbq: no such host
+2021/08/27 09:54:43 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 09:54:43 [237] NON-CONNECT: blocked dial tcp: lookup dseuapfymkx: no such host
+2021/08/27 09:55:14 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 09:55:14 [384] NON-CONNECT: blocked dial tcp: lookup mgyhvnpu: no such host
+2021/08/27 09:55:14 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 09:55:14 [383] NON-CONNECT: blocked dial tcp: lookup avxiusz: no such host
+2021/08/27 09:55:14 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 09:55:14 [382] NON-CONNECT: blocked dial tcp: lookup xpcvrahqtvtfbb: no such host
+2021/08/27 10:05:26 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 10:05:26 [1605] NON-CONNECT: blocked dial tcp: lookup kasgjszld: no such host
+2021/08/27 10:05:26 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 10:05:26 [1604] NON-CONNECT: blocked dial tcp: lookup xlzgsmuohpoy: no such host
+2021/08/27 10:05:26 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 10:05:26 [1603] NON-CONNECT: blocked dial tcp: lookup shkcyrgaiz: no such host
+2021/08/27 10:12:08 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 10:12:08 [1828] NON-CONNECT: blocked dial tcp: lookup uczmylfdomrmb: no such host
+2021/08/27 10:12:08 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 10:12:08 [1830] NON-CONNECT: blocked dial tcp: lookup gnqmrvnjm: no such host
+2021/08/27 10:12:08 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 10:12:08 [1831] NON-CONNECT: blocked dial tcp: lookup auzqegrzog: no such host
+2021/08/27 10:12:35 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 10:12:35 [2341] NON-CONNECT: blocked dial tcp: lookup ylktjvnf: no such host
+2021/08/27 10:12:35 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 10:12:35 [2342] NON-CONNECT: blocked dial tcp: lookup dziydaem: no such host
+2021/08/27 10:12:35 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 10:12:35 [2344] NON-CONNECT: blocked dial tcp: lookup ysqieflxl: no such host
+2021/08/27 10:14:29 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 10:14:29 [2685] NON-CONNECT: blocked dial tcp: lookup zzwqcmzm: no such host
+2021/08/27 10:14:29 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 10:14:29 [2687] NON-CONNECT: blocked dial tcp: lookup ivpbrvmbaftadud: no such host
+2021/08/27 10:14:29 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 10:14:29 [2686] NON-CONNECT: blocked dial tcp: lookup achadhsol: no such host
+2021/08/27 10:14:31 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 10:14:31 [2695] NON-CONNECT: blocked dial tcp: lookup xajhbuqmdei: no such host
+2021/08/27 10:14:31 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 10:14:31 [2693] NON-CONNECT: blocked dial tcp: lookup gbuokqrj: no such host
+2021/08/27 10:14:31 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 10:14:31 [2694] NON-CONNECT: blocked dial tcp: lookup hfvmyhzpax: no such host
+2021/08/27 10:15:43 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 10:15:43 [2734] NON-CONNECT: blocked dial tcp: lookup tink: no such host
+2021/08/27 10:25:31 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 10:25:31 [3005] NON-CONNECT: blocked dial tcp: lookup fthgtlrb: no such host
+2021/08/27 10:25:31 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 10:25:31 [3006] NON-CONNECT: blocked dial tcp: lookup arkxvuzbebqgwr: no such host
+2021/08/27 10:25:31 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 10:25:31 [3004] NON-CONNECT: blocked dial tcp: lookup djkappslb: no such host
+2021/08/27 11:10:56 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 11:10:56 [8451] NON-CONNECT: blocked dial tcp: lookup mjonvoyluhpzn: no such host
+2021/08/27 11:10:56 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 11:10:56 [8453] NON-CONNECT: blocked dial tcp: lookup nvoumajaehujai: no such host
+2021/08/27 11:10:56 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 11:10:56 [8452] NON-CONNECT: blocked dial tcp: lookup xhcfecskkwccic: no such host
+2021/08/27 11:16:08 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 11:16:08 [8623] NON-CONNECT: blocked dial tcp: lookup ibtyajzxmxbarj: no such host
+2021/08/27 11:16:08 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 11:16:08 [8625] NON-CONNECT: blocked dial tcp: lookup hdtbzknxac: no such host
+2021/08/27 11:16:08 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 11:16:08 [8624] NON-CONNECT: blocked dial tcp: lookup pshdsawph: no such host
+2021/08/27 11:16:12 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 11:16:12 [8647] NON-CONNECT: blocked dial tcp: lookup oseezvq: no such host
+2021/08/27 11:16:12 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 11:16:12 [8648] NON-CONNECT: blocked dial tcp: lookup wbtkddqnh: no such host
+2021/08/27 11:16:12 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 11:16:12 [8649] NON-CONNECT: blocked dial tcp: lookup gnzpuxldrgdqb: no such host
+2021/08/27 11:20:16 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 11:20:16 [9775] NON-CONNECT: blocked dial tcp: lookup jngzyntup: no such host
+2021/08/27 11:20:16 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 11:20:16 [9777] NON-CONNECT: blocked dial tcp: lookup ocndxlwdqja: no such host
+2021/08/27 11:20:16 AM SA_SVC: (4856.6988) lsproxy: 2021/08/27 11:20:16 [9776] NON-CONNECT: blocked dial tcp: lookup zbsrxfrtz: no such host
+2021/08/27 12:12:35 PM SA_SVC: (4856.6988) lsproxy: 2021/08/27 12:12:35 [12805] NON-CONNECT: blocked dial tcp: lookup ciihefaouuwoqgl: no such host
+2021/08/27 12:12:35 PM SA_SVC: (4856.6988) lsproxy: 2021/08/27 12:12:35 [12804] NON-CONNECT: blocked dial tcp: lookup sjhqqsyqmme: no such host
+2021/08/27 12:12:35 PM SA_SVC: (4856.6988) lsproxy: 2021/08/27 12:12:35 [12806] NON-CONNECT: blocked dial tcp: lookup ssifpdc: no such host
+2021/08/27 12:18:09 PM SA_SVC: (4856.6988) lsproxy: 2021/08/27 12:18:09 [13897] NON-CONNECT: blocked dial tcp: lookup odkiduzkzqu: no such host
+2021/08/27 12:18:09 PM SA_SVC: (4856.6988) lsproxy: 2021/08/27 12:18:09 [13899] NON-CONNECT: blocked dial tcp: lookup bzbjmdnwck: no such host
+2021/08/27 12:18:09 PM SA_SVC: (4856.6988) lsproxy: 2021/08/27 12:18:09 [13898] NON-CONNECT: blocked dial tcp: lookup flrzylsrz: no such host
+2021/08/27 01:28:25 PM SA_SVC: (4856.6988) lsproxy: 2021/08/27 13:28:25 [16226] NON-CONNECT: blocked dial tcp: lookup sfvebrksmjrequ: no such host
+2021/08/27 01:28:25 PM SA_SVC: (4856.6988) lsproxy: 2021/08/27 13:28:25 [16224] NON-CONNECT: blocked dial tcp: lookup xctssrzad: no such host
+2021/08/27 01:28:25 PM SA_SVC: (4856.6988) lsproxy: 2021/08/27 13:28:25 [16225] NON-CONNECT: blocked dial tcp: lookup svbzaeift: no such host
+2021/08/27 03:10:31 PM SA_SVC: (4856.6988) lsproxy: 2021/08/27 15:10:31 [21791] NON-CONNECT: blocked dial tcp: lookup zhnfynalol: no such host
+2021/08/27 03:10:31 PM SA_SVC: (4856.6988) lsproxy: 2021/08/27 15:10:31 [21793] NON-CONNECT: blocked dial tcp: lookup zodqtkpnllupu: no such host
+2021/08/27 03:10:31 PM SA_SVC: (4856.6988) lsproxy: 2021/08/27 15:10:31 [21790] NON-CONNECT: blocked dial tcp: lookup cswscuhcb: no such host
+2021/08/27 03:14:09 PM SA_SVC: (4856.6988) lsproxy: 2021/08/27 15:14:09 [22237] NON-CONNECT: blocked dial tcp: lookup air: no such host
+2021/08/27 07:32:13 PM SA_SVC: (4856.6988) lsproxy: 2021/08/27 19:32:13 [24783] NON-CONNECT: blocked context canceled
+2021/08/27 07:32:13 PM SA_SVC: (4856.6988) lsproxy: 2021/08/27 19:32:13 [24785] NON-CONNECT: blocked context canceled
+2021/08/27 07:32:13 PM SA_SVC: (4856.6988) lsproxy: 2021/08/27 19:32:13 [24784] NON-CONNECT: blocked context canceled
+2021/08/27 08:18:38 PM SA_SVC: (4920.5164) LSSASvc.exe v1.5.4 build 0 (1.5.4.0), Release x64,
+    Windows v10.0 build 18363,
+    Platform = Win10_x64
+2021/08/27 08:18:39 PM SA_SVC: (4920.5164) RegisterService: Driver v1.5.0 interface v2
+
+2021/08/27 08:18:39 PM SA_SVC: (4920.6116) Starting policy service with command line:
+    [smart-agent-js-win.exe -S -PLATFORM Win10_x64 -c "C:\Program Files\Lightspeed Systems\Smart Agent" -C "C:\Program Files\Lightspeed Systems\Smart Agent" -F "C:\Program Files\Lightspeed Systems\Smart Agent\PolicyData"]
+2021/08/27 08:18:44 PM SA_SVC: (4920.6880) Starting proxy service with command line:
+    [lsproxy.exe --https=:62312]
+2021/08/27 08:18:44 PM SA_SVC: (4920.6880) lsproxy: 2021/08/27 20:18:44 lsproxy 2019-11-07-A Thu Nov  7 16:47:30 CST 2019
+2021/08/27 08:50:22 PM SA_SVC: (4712.5144) LSSASvc.exe v1.5.4 build 0 (1.5.4.0), Release x64,
+    Windows v10.0 build 18363,
+    Platform = Win10_x64
+2021/08/27 08:50:23 PM SA_SVC: (4712.5144) RegisterService: Driver v1.5.0 interface v2
+
+2021/08/27 08:50:23 PM SA_SVC: (4712.6124) Starting policy service with command line:
+    [smart-agent-js-win.exe -S -PLATFORM Win10_x64 -c "C:\Program Files\Lightspeed Systems\Smart Agent" -C "C:\Program Files\Lightspeed Systems\Smart Agent" -F "C:\Program Files\Lightspeed Systems\Smart Agent\PolicyData"]
+2021/08/27 08:50:27 PM SA_SVC: (4712.6608) Starting proxy service with command line:
+    [lsproxy.exe --https=:62312]
+2021/08/27 08:50:27 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:50:27 lsproxy 2019-11-07-A Thu Nov  7 16:47:30 CST 2019
+2021/08/27 08:51:15 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:15 [1] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:19 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:19 [2] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:19 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:19 [3] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:19 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:19 [4] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:19 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:19 [5] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:20 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:20 [6] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:20 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:20 [7] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:20 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:20 [8] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:20 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:20 [9] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:20 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:20 [10] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:20 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:20 [11] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:20 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:20 [12] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:21 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:21 [13] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:21 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:21 [14] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:21 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:21 [15] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:21 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:21 [16] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:21 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:21 [17] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:21 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:21 [18] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:21 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:21 [19] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:22 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:22 [20] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:22 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:22 [21] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:22 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:22 [22] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:25 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:25 [27] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:26 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:26 [28] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:26 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:26 [29] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:26 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:26 [31] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:27 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:27 [32] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:27 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:27 [33] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:27 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:27 [34] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:27 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:27 [36] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:28 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:28 [37] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:28 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:28 [38] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:28 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:28 [39] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:29 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:29 [40] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:32 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:32 [44] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:33 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:33 [50] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:33 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:33 [51] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:34 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:34 [56] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:34 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:34 [61] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:34 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:34 [66] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:34 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:34 [67] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:35 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:35 [76] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:38 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:38 [96] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:39 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:39 [97] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:39 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:39 [103] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:41 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:41 [116] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:41 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:41 [127] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:42 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:42 [130] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:42 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:42 [135] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:43 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:43 [136] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:43 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:43 [137] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:43 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:43 [138] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:44 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:44 [139] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:44 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:44 [140] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:44 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:44 [141] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:44 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:44 [142] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:45 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:45 [144] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:45 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:45 [145] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:46 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:46 [147] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:46 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:46 [149] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 08:51:46 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:46 [152] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:46 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:46 [153] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 08:51:46 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:46 [156] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:47 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:47 [157] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 08:51:47 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:47 [158] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:47 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:47 [159] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 08:51:47 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:47 [160] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:47 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:47 [161] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 08:51:48 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:48 [163] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 08:51:48 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:48 [162] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:48 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:48 [165] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 08:51:49 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:49 [166] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:49 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:49 [171] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:49 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:49 [169] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 08:51:50 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:50 [173] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 08:51:50 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:50 [172] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:50 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:50 [174] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:50 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:50 [176] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:51 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:51 [179] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:51 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:51 [182] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:51 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:51 [183] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:52 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:52 [184] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:52 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:52 [186] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:53 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:53 [188] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:53 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:53 [189] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:54 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:54 [190] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:54 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:54 [191] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:54 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:54 [192] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:55 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:55 [193] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:55 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:55 [194] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:56 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:56 [195] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:56 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:56 [196] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:56 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:56 [197] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:56 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:56 [198] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:57 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:57 [199] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:57 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:57 [200] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:51:57 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:51:57 [201] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:03 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:03 [204] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:04 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:04 [205] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:04 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:04 [206] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:04 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:04 [208] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:04 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:04 [209] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:05 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:05 [210] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:05 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:05 [212] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:05 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:05 [213] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:05 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:05 [215] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:05 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:05 [216] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:06 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:06 [218] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:06 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:06 [220] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:06 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:06 [222] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:06 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:06 [223] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:07 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:07 [225] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:07 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:07 [227] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:07 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:07 [228] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:07 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:07 [229] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:07 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:07 [230] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:08 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:08 [231] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:08 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:08 [232] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:08 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:08 [233] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:08 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:08 [234] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:09 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:09 [235] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:09 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:09 [236] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:10 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:10 [237] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:10 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:10 [241] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:11 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:11 [243] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:11 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:11 [246] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:52:12 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:52:12 [249] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:53:03 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:53:03 [385] NON-CONNECT: blocked dial tcp: lookup lpceuypngma: no such host
+2021/08/27 08:53:03 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:53:03 [386] NON-CONNECT: blocked dial tcp: lookup unwhvwdeiolygn: no such host
+2021/08/27 08:53:04 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:53:04 [389] NON-CONNECT: blocked dial tcp: lookup kunpibuql: no such host
+2021/08/27 08:54:48 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:54:48 [1565] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:54:48 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:54:48 [1568] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:54:48 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:54:48 [1575] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:54:48 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:54:48 [1581] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:54:48 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:54:48 [1585] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:54:49 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:54:49 [1586] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:54:49 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:54:49 [1589] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:54:49 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:54:49 [1590] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 08:54:49 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 20:54:49 [1591] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 09:00:36 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:00:36 [4574] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 09:00:36 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:00:36 [4581] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 09:00:37 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:00:37 [4605] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 09:00:38 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:00:38 [4621] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 09:00:38 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:00:38 [4628] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 09:00:39 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:00:39 [4645] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 09:00:39 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:00:39 [4668] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 09:00:40 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:00:40 [4672] NON-CONNECT: blocked dial tcp: lookup flniowiewb: no such host
+2021/08/27 09:00:40 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:00:40 [4674] NON-CONNECT: blocked dial tcp: lookup mashvhluchmyeq: no such host
+2021/08/27 09:00:40 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:00:40 [4675] NON-CONNECT: blocked dial tcp: lookup piqbeexar: no such host
+2021/08/27 09:00:40 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:00:40 [4678] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 09:00:40 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:00:40 [4725] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 09:06:45 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:06:45 [6861] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 09:06:45 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:06:45 [6870] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 09:06:45 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:06:45 [6875] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 09:06:46 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:06:46 [6876] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 09:06:46 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:06:46 [6877] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 09:06:46 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:06:46 [6880] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 09:06:46 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:06:46 [6881] NON-CONNECT: blocked dial tcp: lookup msoms01: no such host
+2021/08/27 09:07:28 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:07:28 [6999] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 09:07:28 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:07:28 [7000] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 09:07:28 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:07:28 [7001] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 09:07:28 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:07:28 [7002] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 09:07:28 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:07:28 [7003] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 09:07:28 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:07:28 [7004] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 09:07:29 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:07:29 [7005] NON-CONNECT: blocked dial tcp: lookup hboms02: no such host
+2021/08/27 09:12:59 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:12:59 [7308] NON-CONNECT: blocked read tcp 192.168.0.113:59856->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:13:18 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:13:18 [7429] NON-CONNECT: blocked read tcp 192.168.0.113:55092->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:13:37 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:13:37 [7464] NON-CONNECT: blocked read tcp 192.168.0.113:52142->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:15:10 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:15:10 [7545] NON-CONNECT: blocked read tcp 192.168.0.113:54878->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:15:29 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:15:29 [7554] NON-CONNECT: blocked read tcp 192.168.0.113:59956->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:15:49 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:15:49 [7563] NON-CONNECT: blocked read tcp 192.168.0.113:53822->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:16:08 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:16:08 [7725] NON-CONNECT: blocked read tcp 192.168.0.113:58229->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:16:08 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:16:08 [7726] NON-CONNECT: blocked read tcp 192.168.0.113:58228->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:16:27 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:16:27 [7947] NON-CONNECT: blocked read tcp 192.168.0.113:61066->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:16:46 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:16:46 [8054] NON-CONNECT: blocked read tcp 192.168.0.113:53499->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:17:05 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:17:05 [8165] NON-CONNECT: blocked read tcp 192.168.0.113:60343->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:19:47 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:19:47 [9369] NON-CONNECT: blocked read tcp 192.168.0.113:62503->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:20:06 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:20:06 [9431] NON-CONNECT: blocked read tcp 192.168.0.113:51556->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:20:25 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:20:25 [9521] NON-CONNECT: blocked read tcp 192.168.0.113:60551->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:20:46 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:20:46 [9668] NON-CONNECT: blocked read tcp 192.168.0.113:53753->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:21:05 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:21:05 [9787] NON-CONNECT: blocked read tcp 192.168.0.113:50960->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:21:24 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:21:24 [9851] NON-CONNECT: blocked read tcp 192.168.0.113:50119->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:21:44 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:21:44 [9924] NON-CONNECT: blocked read tcp 192.168.0.113:63026->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:22:03 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:22:03 [9963] NON-CONNECT: blocked read tcp 192.168.0.113:62230->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:22:23 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:22:23 [10004] NON-CONNECT: blocked read tcp 192.168.0.113:63148->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:22:36 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:22:36 [10058] NON-CONNECT: blocked read tcp 192.168.0.113:63645->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:22:42 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:22:42 [10070] NON-CONNECT: blocked read tcp 192.168.0.113:49322->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:23:01 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:23:01 [10142] NON-CONNECT: blocked read tcp 192.168.0.113:60522->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:23:20 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:23:20 [10215] NON-CONNECT: blocked read tcp 192.168.0.113:59505->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:23:39 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:23:39 [10294] NON-CONNECT: blocked read tcp 192.168.0.113:49461->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:23:58 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:23:58 [10341] NON-CONNECT: blocked read tcp 192.168.0.113:52015->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:24:17 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:24:17 [10407] NON-CONNECT: blocked read tcp 192.168.0.113:62406->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:26:19 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:26:19 [11055] NON-CONNECT: blocked read tcp 192.168.0.113:64386->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:26:19 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:26:19 [11056] NON-CONNECT: blocked read tcp 192.168.0.113:64388->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:26:38 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:26:38 [11249] NON-CONNECT: blocked read tcp 192.168.0.113:56720->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:26:38 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:26:38 [11250] NON-CONNECT: blocked read tcp 192.168.0.113:56722->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:26:38 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:26:38 [11248] NON-CONNECT: blocked read tcp 192.168.0.113:56721->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:26:39 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:26:39 [11251] NON-CONNECT: blocked read tcp 192.168.0.113:56724->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:26:57 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:26:57 [11979] NON-CONNECT: blocked read tcp 192.168.0.113:57334->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:26:58 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:26:58 [11984] NON-CONNECT: blocked read tcp 192.168.0.113:65047->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:26:58 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:26:58 [11995] NON-CONNECT: blocked read tcp 192.168.0.113:51530->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:27:17 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:27:17 [12284] NON-CONNECT: blocked read tcp 192.168.0.113:55412->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:27:19 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:27:19 [12365] NON-CONNECT: blocked read tcp 192.168.0.113:54442->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:27:36 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:27:36 [12444] NON-CONNECT: blocked read tcp 192.168.0.113:53224->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:27:38 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:27:38 [12445] NON-CONNECT: blocked read tcp 192.168.0.113:53226->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:27:55 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:27:55 [12468] NON-CONNECT: blocked read tcp 192.168.0.113:61906->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:27:57 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:27:57 [12469] NON-CONNECT: blocked read tcp 192.168.0.113:61909->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:28:14 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:28:14 [12510] NON-CONNECT: blocked read tcp 192.168.0.113:56320->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:28:33 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:28:33 [12623] NON-CONNECT: blocked read tcp 192.168.0.113:52346->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:28:52 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:28:52 [12662] NON-CONNECT: blocked read tcp 192.168.0.113:55525->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:29:11 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:29:11 [12671] NON-CONNECT: blocked read tcp 192.168.0.113:52230->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:29:30 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:29:30 [12704] NON-CONNECT: blocked read tcp 192.168.0.113:54157->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:29:49 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:29:49 [12709] NON-CONNECT: blocked read tcp 192.168.0.113:56945->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:30:08 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:30:08 [12712] NON-CONNECT: blocked read tcp 192.168.0.113:53946->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:30:27 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:30:27 [12719] NON-CONNECT: blocked read tcp 192.168.0.113:58234->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:30:46 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:30:46 [12734] NON-CONNECT: blocked read tcp 192.168.0.113:65520->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:31:05 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:31:05 [12937] NON-CONNECT: blocked read tcp 192.168.0.113:62916->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:31:24 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:31:24 [13038] NON-CONNECT: blocked read tcp 192.168.0.113:61227->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:31:43 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:31:43 [13058] NON-CONNECT: blocked read tcp 192.168.0.113:49183->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:32:23 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:32:23 [13112] NON-CONNECT: blocked read tcp 192.168.0.113:61551->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:32:42 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:32:42 [13199] NON-CONNECT: blocked read tcp 192.168.0.113:62362->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:33:01 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:33:01 [13530] NON-CONNECT: blocked read tcp 192.168.0.113:49157->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:33:20 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:33:20 [13675] NON-CONNECT: blocked read tcp 192.168.0.113:52608->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:33:39 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:33:39 [13702] NON-CONNECT: blocked read tcp 192.168.0.113:57658->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:33:58 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:33:58 [13736] NON-CONNECT: blocked read tcp 192.168.0.113:61020->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:34:17 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:34:17 [13772] NON-CONNECT: blocked read tcp 192.168.0.113:53346->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:34:36 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:34:36 [13808] NON-CONNECT: blocked read tcp 192.168.0.113:64828->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:34:55 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:34:55 [13830] NON-CONNECT: blocked read tcp 192.168.0.113:52320->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:35:14 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:35:14 [13855] NON-CONNECT: blocked read tcp 192.168.0.113:57737->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:35:33 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:35:33 [13862] NON-CONNECT: blocked read tcp 192.168.0.113:52409->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:35:52 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:35:52 [13863] NON-CONNECT: blocked read tcp 192.168.0.113:52413->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:36:11 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:36:11 [13927] NON-CONNECT: blocked read tcp 192.168.0.113:54799->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:36:30 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:36:30 [13962] NON-CONNECT: blocked read tcp 192.168.0.113:54841->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:36:49 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:36:49 [14178] NON-CONNECT: blocked read tcp 192.168.0.113:55003->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:36:54 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:36:54 [14218] NON-CONNECT: blocked read tcp 192.168.0.113:55027->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:37:08 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:37:08 [14231] NON-CONNECT: blocked read tcp 192.168.0.113:55041->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:37:13 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:37:13 [14284] NON-CONNECT: blocked read tcp 192.168.0.113:55082->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:37:27 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:37:27 [14307] NON-CONNECT: blocked read tcp 192.168.0.113:55100->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:37:32 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:37:32 [14316] NON-CONNECT: blocked read tcp 192.168.0.113:55110->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:37:46 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:37:46 [14373] NON-CONNECT: blocked read tcp 192.168.0.113:55166->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:37:51 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:37:51 [14390] NON-CONNECT: blocked read tcp 192.168.0.113:55180->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:38:05 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:38:05 [14393] NON-CONNECT: blocked read tcp 192.168.0.113:55187->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:38:24 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:38:24 [14400] NON-CONNECT: blocked read tcp 192.168.0.113:55210->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:38:43 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:38:43 [14431] NON-CONNECT: blocked read tcp 192.168.0.113:55245->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:39:02 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:39:02 [14436] NON-CONNECT: blocked read tcp 192.168.0.113:55258->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:39:21 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:39:21 [14441] NON-CONNECT: blocked read tcp 192.168.0.113:55268->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:39:40 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:39:40 [14484] NON-CONNECT: blocked read tcp 192.168.0.113:55335->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:40:38 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:40:38 [14535] NON-CONNECT: blocked read tcp 192.168.0.113:55403->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/27 09:40:57 PM SA_SVC: (4712.6608) lsproxy: 2021/08/27 21:40:57 [14540] NON-CONNECT: blocked read tcp 192.168.0.113:55416->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/28 06:44:21 AM SA_SVC: (4712.6608) lsproxy: 2021/08/28 06:44:21 [16305] NON-CONNECT: blocked read tcp 192.168.0.113:50861->10.0.0.2:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/28 06:53:34 AM SA_SVC: (4760.4956) LSSASvc.exe v1.5.4 build 0 (1.5.4.0), Release x64,
+    Windows v10.0 build 18363,
+    Platform = Win10_x64
+2021/08/28 06:53:36 AM SA_SVC: (4760.4956) RegisterService: Driver v1.5.0 interface v2
+
+2021/08/28 06:53:36 AM SA_SVC: (4760.6080) Starting policy service with command line:
+    [smart-agent-js-win.exe -S -PLATFORM Win10_x64 -c "C:\Program Files\Lightspeed Systems\Smart Agent" -C "C:\Program Files\Lightspeed Systems\Smart Agent" -F "C:\Program Files\Lightspeed Systems\Smart Agent\PolicyData"]
+2021/08/28 06:53:40 AM SA_SVC: (4760.6664) Starting proxy service with command line:
+    [lsproxy.exe --https=:62312]
+2021/08/28 06:53:40 AM SA_SVC: (4760.6664) lsproxy: 2021/08/28 06:53:40 lsproxy 2019-11-07-A Thu Nov  7 16:47:30 CST 2019
+2021/08/28 07:02:50 AM SA_SVC: (4760.6664) lsproxy: 2021/08/28 07:02:50 [470] NON-CONNECT: blocked dial tcp 135.208.6.7:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/28 07:03:54 AM SA_SVC: (4760.6664) lsproxy: 2021/08/28 07:03:54 [637] NON-CONNECT: blocked dial tcp 135.208.6.7:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/28 07:14:57 AM SA_SVC: (2908.5464) LSSASvc.exe v1.5.4 build 0 (1.5.4.0), Release x64,
+    Windows v10.0 build 18363,
+    Platform = Win10_x64
+2021/08/28 07:14:59 AM SA_SVC: (2908.5464) RegisterService: Driver v1.5.0 interface v2
+
+2021/08/28 07:14:59 AM SA_SVC: (2908.6164) Starting policy service with command line:
+    [smart-agent-js-win.exe -S -PLATFORM Win10_x64 -c "C:\Program Files\Lightspeed Systems\Smart Agent" -C "C:\Program Files\Lightspeed Systems\Smart Agent" -F "C:\Program Files\Lightspeed Systems\Smart Agent\PolicyData"]
+2021/08/28 07:16:45 AM SA_SVC: (4740.5148) LSSASvc.exe v1.5.4 build 0 (1.5.4.0), Release x64,
+    Windows v10.0 build 18363,
+    Platform = Win10_x64
+2021/08/28 07:16:47 AM SA_SVC: (4740.5148) RegisterService: Driver v1.5.0 interface v2
+
+2021/08/28 07:16:47 AM SA_SVC: (4740.444) Starting policy service with command line:
+    [smart-agent-js-win.exe -S -PLATFORM Win10_x64 -c "C:\Program Files\Lightspeed Systems\Smart Agent" -C "C:\Program Files\Lightspeed Systems\Smart Agent" -F "C:\Program Files\Lightspeed Systems\Smart Agent\PolicyData"]
+2021/08/28 07:16:51 AM SA_SVC: (4740.6632) Starting proxy service with command line:
+    [lsproxy.exe --https=:62312]
+2021/08/28 07:16:51 AM SA_SVC: (4740.6632) lsproxy: 2021/08/28 07:16:51 lsproxy 2019-11-07-A Thu Nov  7 16:47:30 CST 2019
+2021/08/28 08:15:51 PM SA_SVC: (4816.5184) LSSASvc.exe v1.5.4 build 0 (1.5.4.0), Release x64,
+    Windows v10.0 build 18363,
+    Platform = Win10_x64
+2021/08/28 08:15:52 PM SA_SVC: (4816.5184) RegisterService: Driver v1.5.0 interface v2
+
+2021/08/28 08:15:53 PM SA_SVC: (4816.6096) Starting policy service with command line:
+    [smart-agent-js-win.exe -S -PLATFORM Win10_x64 -c "C:\Program Files\Lightspeed Systems\Smart Agent" -C "C:\Program Files\Lightspeed Systems\Smart Agent" -F "C:\Program Files\Lightspeed Systems\Smart Agent\PolicyData"]
+2021/08/28 08:15:58 PM SA_SVC: (4816.6768) Starting proxy service with command line:
+    [lsproxy.exe --https=:62312]
+2021/08/28 08:15:58 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 20:15:58 lsproxy 2019-11-07-A Thu Nov  7 16:47:30 CST 2019
+2021/08/28 08:35:34 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 20:35:34 [3290] NON-CONNECT: blocked dial tcp: lookup ojbqzhvxqfhwrxj: no such host
+2021/08/28 08:35:34 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 20:35:34 [3289] NON-CONNECT: blocked dial tcp: lookup mwxsgsim: no such host
+2021/08/28 08:35:34 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 20:35:34 [3291] NON-CONNECT: blocked dial tcp: lookup mcmqqvwtdozj: no such host
+2021/08/28 08:35:37 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 20:35:37 [3298] NON-CONNECT: blocked dial tcp: lookup vxumzuws: no such host
+2021/08/28 08:35:37 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 20:35:37 [3296] NON-CONNECT: blocked dial tcp: lookup dmjdtope: no such host
+2021/08/28 08:35:37 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 20:35:37 [3297] NON-CONNECT: blocked dial tcp: lookup dfildmymsciolap: no such host
+2021/08/28 08:35:43 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 20:35:43 [3317] NON-CONNECT: blocked dial tcp: lookup flenlfek: no such host
+2021/08/28 08:35:43 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 20:35:43 [3315] NON-CONNECT: blocked dial tcp: lookup lonorprso: no such host
+2021/08/28 08:35:43 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 20:35:43 [3316] NON-CONNECT: blocked dial tcp: lookup pujzeubuiaypmvu: no such host
+2021/08/28 08:55:12 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 20:55:12 [4222] NON-CONNECT: blocked dial tcp: lookup lflmdxfi: no such host
+2021/08/28 08:55:12 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 20:55:12 [4224] NON-CONNECT: blocked dial tcp: lookup fjiwemratovj: no such host
+2021/08/28 08:55:12 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 20:55:12 [4223] NON-CONNECT: blocked dial tcp: lookup hnwexptwqydwriw: no such host
+2021/08/28 08:55:17 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 20:55:17 [4247] NON-CONNECT: blocked dial tcp: lookup nintendo: no such host
+2021/08/28 08:57:44 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 20:57:44 [5187] NON-CONNECT: blocked dial tcp: lookup snake: no such host
+2021/08/28 09:09:25 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 21:09:25 [6249] NON-CONNECT: blocked dial tcp: lookup wysasule: no such host
+2021/08/28 09:09:25 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 21:09:25 [6247] NON-CONNECT: blocked dial tcp: lookup sjarvvfcmmti: no such host
+2021/08/28 09:09:25 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 21:09:25 [6248] NON-CONNECT: blocked dial tcp: lookup dtpzexydhvjmii: no such host
+2021/08/28 09:10:48 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 21:10:48 [7019] NON-CONNECT: blocked EOF
+2021/08/28 09:16:09 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 21:16:09 [7114] NON-CONNECT: blocked read tcp [::1]:49201->[::1]:6543: wsarecv: An existing connection was forcibly closed by the remote host.
+2021/08/28 09:16:10 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 21:16:10 [7113] NON-CONNECT: blocked dial tcp: lookup ds.v6ns.vm3.test-ipv6.com: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2021/08/28 09:16:10 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 21:16:10 [7117] NON-CONNECT: blocked dial tcp: lookup ds.v6ns.vm3.test-ipv6.com: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2021/08/28 09:20:54 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 21:20:54 [9840] NON-CONNECT: blocked dial tcp: lookup red: no such host
+2021/08/28 09:33:35 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 21:33:35 [14116] NON-CONNECT: blocked dial tcp: lookup mac: no such host
+2021/08/28 09:34:03 PM SA_SVC: (4816.6768) lsproxy: 2021/08/28 21:34:03 [14379] NON-CONNECT: blocked read tcp [::1]:58112->[::1]:6543: wsarecv: An existing connection was forcibly closed by the remote host.
+2021/08/29 08:45:29 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:45:29 [18374] NON-CONNECT: blocked dial tcp: lookup jwykvmvev: no such host
+2021/08/29 08:45:29 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:45:29 [18376] NON-CONNECT: blocked dial tcp: lookup sjsmqtyokjq: no such host
+2021/08/29 08:45:29 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:45:29 [18375] NON-CONNECT: blocked dial tcp: lookup cmtfrfhner: no such host
+2021/08/29 08:45:35 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:45:35 [18384] NON-CONNECT: blocked dial tcp: lookup pniikadrlgwv: no such host
+2021/08/29 08:45:36 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:45:36 [18380] NON-CONNECT: blocked dial tcp: lookup nrteeifdrv: no such host
+2021/08/29 08:45:36 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:45:36 [18382] NON-CONNECT: blocked dial tcp: lookup bhkiprlrk: no such host
+2021/08/29 08:47:18 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:47:18 [18527] NON-CONNECT: blocked dial tcp: lookup bsprdwcljfseqz: no such host
+2021/08/29 08:47:18 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:47:18 [18529] NON-CONNECT: blocked dial tcp: lookup ttkemikztszdk: no such host
+2021/08/29 08:47:18 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:47:18 [18528] NON-CONNECT: blocked dial tcp: lookup almdgtji: no such host
+2021/08/29 08:47:23 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:47:23 [18537] NON-CONNECT: blocked dial tcp: lookup ezkhbknxkjyeio: no such host
+2021/08/29 08:47:23 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:47:23 [18539] NON-CONNECT: blocked dial tcp: lookup jesnkdtmfbgbe: no such host
+2021/08/29 08:47:23 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:47:23 [18538] NON-CONNECT: blocked dial tcp: lookup omlffitbnoasgpv: no such host
+2021/08/29 08:47:33 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:47:33 [18541] NON-CONNECT: blocked dial tcp: lookup uxqibdgic: no such host
+2021/08/29 08:47:33 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:47:33 [18543] NON-CONNECT: blocked dial tcp: lookup plmyjoamw: no such host
+2021/08/29 08:47:33 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:47:33 [18542] NON-CONNECT: blocked dial tcp: lookup yphctwcsb: no such host
+2021/08/29 08:47:57 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:47:57 [18551] NON-CONNECT: blocked dial tcp: lookup khcagxozqyos: no such host
+2021/08/29 08:47:57 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:47:57 [18552] NON-CONNECT: blocked dial tcp: lookup lvtpsbpaebzge: no such host
+2021/08/29 08:47:57 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:47:57 [18553] NON-CONNECT: blocked dial tcp: lookup nnsvouoqzcvgxw: no such host
+2021/08/29 08:48:14 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:48:14 [18555] NON-CONNECT: blocked dial tcp: lookup cadgvlgobevk: no such host
+2021/08/29 08:48:14 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:48:14 [18557] NON-CONNECT: blocked dial tcp: lookup altgnecpqz: no such host
+2021/08/29 08:48:14 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 08:48:14 [18556] NON-CONNECT: blocked dial tcp: lookup uamxvwxhxo: no such host
+2021/08/29 09:01:39 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 09:01:39 [21207] NON-CONNECT: blocked dial tcp 104.198.46.134:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/29 09:02:01 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 09:02:01 [21222] NON-CONNECT: blocked dial tcp 104.198.46.134:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2021/08/29 09:18:12 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 09:18:12 [24122] NON-CONNECT: blocked dial tcp: lookup epson: no such host
+2021/08/29 10:18:54 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 10:18:54 [26130] NON-CONNECT: blocked dial tcp: lookup ywcengapc: no such host
+2021/08/29 10:18:54 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 10:18:54 [26132] NON-CONNECT: blocked dial tcp: lookup knzkxagk: no such host
+2021/08/29 10:18:54 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 10:18:54 [26131] NON-CONNECT: blocked dial tcp: lookup lhlivcy: no such host
+2021/08/29 10:18:57 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 10:18:57 [26139] NON-CONNECT: blocked dial tcp: lookup mprpqcdwdwuyg: no such host
+2021/08/29 10:18:57 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 10:18:57 [26140] NON-CONNECT: blocked dial tcp: lookup wnyzeyyvnbnyy: no such host
+2021/08/29 10:18:57 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 10:18:57 [26141] NON-CONNECT: blocked dial tcp: lookup ifqhbrnyrk: no such host
+2021/08/29 10:18:57 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 10:18:57 [26142] NON-CONNECT: blocked dial tcp: lookup erlbekexhxgtrv: no such host
+2021/08/29 10:18:57 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 10:18:57 [26144] NON-CONNECT: blocked dial tcp: lookup augdrfzuy: no such host
+2021/08/29 10:18:57 AM SA_SVC: (4816.6768) lsproxy: 2021/08/29 10:18:57 [26143] NON-CONNECT: blocked dial tcp: lookup mheckfsdtnnmzht: no such host
+2021/08/30 09:20:16 AM SA_SVC: (4816.6768) lsproxy: 2021/08/30 09:20:16 [28036] NON-CONNECT: blocked dial tcp: lookup rkeaukdcvdg: no such host
+2021/08/30 09:20:16 AM SA_SVC: (4816.6768) lsproxy: 2021/08/30 09:20:16 [28037] NON-CONNECT: blocked dial tcp: lookup vrxqldpuk: no such host
+2021/08/30 09:20:16 AM SA_SVC: (4816.6768) lsproxy: 2021/08/30 09:20:16 [28038] NON-CONNECT: blocked dial tcp: lookup oljeigwjlwllv: no such host
+2021/08/30 09:24:23 AM SA_SVC: (4816.6768) lsproxy: 2021/08/30 09:24:23 [28447] NON-CONNECT: blocked dial tcp: lookup wrlxjkr: no such host
+2021/08/30 09:24:23 AM SA_SVC: (4816.6768) lsproxy: 2021/08/30 09:24:23 [28449] NON-CONNECT: blocked dial tcp: lookup srbqiolcaedynkj: no such host
+2021/08/30 09:24:23 AM SA_SVC: (4816.6768) lsproxy: 2021/08/30 09:24:23 [28448] NON-CONNECT: blocked dial tcp: lookup uvglqamcofsbwza: no such host
+2021/08/30 09:24:28 AM SA_SVC: (4816.6768) lsproxy: 2021/08/30 09:24:28 [28470] NON-CONNECT: blocked dial tcp: lookup swxgtwmrlfvp: no such host
+2021/08/30 09:24:28 AM SA_SVC: (4816.6768) lsproxy: 2021/08/30 09:24:28 [28471] NON-CONNECT: blocked dial tcp: lookup jhyjgxkucona: no such host
+2021/08/30 09:24:28 AM SA_SVC: (4816.6768) lsproxy: 2021/08/30 09:24:28 [28469] NON-CONNECT: blocked dial tcp: lookup ttwikrpgfqnf: no such host
+2021/08/30 09:53:47 AM SA_SVC: (4816.6768) lsproxy: 2021/08/30 09:53:47 [28939] NON-CONNECT: blocked dial tcp: lookup fhkbeqmp: no such host
+2021/08/30 09:53:47 AM SA_SVC: (4816.6768) lsproxy: 2021/08/30 09:53:47 [28941] NON-CONNECT: blocked dial tcp: lookup rigbfbbmur: no such host
+2021/08/30 09:53:47 AM SA_SVC: (4816.6768) lsproxy: 2021/08/30 09:53:47 [28940] NON-CONNECT: blocked dial tcp: lookup hsrsndd: no such host
+2021/08/30 10:19:18 AM SA_SVC: (5428.5564) LSSASvc.exe v1.5.4 build 0 (1.5.4.0), Release x64,
+    Windows v10.0 build 18363,
+    Platform = Win10_x64
+2021/08/30 10:19:20 AM SA_SVC: (5428.5564) RegisterService: Driver v1.5.0 interface v2
+
+2021/08/30 10:19:21 AM SA_SVC: (5428.6236) Starting policy service with command line:
+    [smart-agent-js-win.exe -S -PLATFORM Win10_x64 -c "C:\Program Files\Lightspeed Systems\Smart Agent" -C "C:\Program Files\Lightspeed Systems\Smart Agent" -F "C:\Program Files\Lightspeed Systems\Smart Agent\PolicyData"]
+2021/08/30 10:19:28 AM SA_SVC: (5428.5316) Starting proxy service with command line:
+    [lsproxy.exe --https=:62312]
+2021/08/30 10:19:28 AM SA_SVC: (5428.5316) lsproxy: 2021/08/30 10:19:28 lsproxy 2019-11-07-A Thu Nov  7 16:47:30 CST 2019
+2021/08/30 10:26:28 AM SA_SVC: (5428.5316) lsproxy: 2021/08/30 10:26:28 [437] NON-CONNECT: blocked dial tcp: lookup iiolfubiqw: no such host
+2021/08/30 10:26:29 AM SA_SVC: (5428.5316) lsproxy: 2021/08/30 10:26:29 [439] NON-CONNECT: blocked dial tcp: lookup squytfwbkwklmtr: no such host
+2021/08/30 10:26:29 AM SA_SVC: (5428.5316) lsproxy: 2021/08/30 10:26:29 [440] NON-CONNECT: blocked dial tcp: lookup mtxqpzwc: no such host
+2021/08/30 10:26:44 AM SA_SVC: (5428.5316) lsproxy: 2021/08/30 10:26:44 [481] NON-CONNECT: blocked dial tcp: lookup local.classlink: no such host
+2021/08/30 11:14:44 AM SA_SVC: (5428.5316) lsproxy: 2021/08/30 11:14:44 [9763] NON-CONNECT: blocked dial tcp: lookup local.classlink: no such host
+2021/08/30 11:14:47 AM SA_SVC: (5428.5316) lsproxy: 2021/08/30 11:14:47 [9801] NON-CONNECT: blocked dial tcp: lookup dradvapgylk: no such host
+2021/08/30 11:14:47 AM SA_SVC: (5428.5316) lsproxy: 2021/08/30 11:14:47 [9799] NON-CONNECT: blocked dial tcp: lookup vmvpfczwtta: no such host
+2021/08/30 11:14:47 AM SA_SVC: (5428.5316) lsproxy: 2021/08/30 11:14:47 [9802] NON-CONNECT: blocked dial tcp: lookup arsiallgsrnfkso: no such host
+2021/08/30 11:49:30 AM SA_SVC: (5428.5316) lsproxy: 2021/08/30 11:49:30 [15626] NON-CONNECT: blocked context canceled
+2021/08/30 11:49:41 AM SA_SVC: (5428.5316) lsproxy: 2021/08/30 11:49:41 [15627] NON-CONNECT: blocked context canceled
